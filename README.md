@@ -46,7 +46,7 @@ npm install
 2. Create or update your `.env` file in the project root:
 
 ```env
-VITE_TOKEN_KEY='your_cookie_key_name'
+VITE_STORAGE_KEY='your_cookie_key_name'
 VITE_API_ENDPOINT='https://your-api.example.com/api/v1/user'
 ```
 
@@ -58,7 +58,7 @@ npm run dev
 
 4. Open `http://localhost:5173`
 
-For deployment, the app only requires `VITE_API_ENDPOINT` and `VITE_TOKEN_KEY`.
+For deployment, the app only requires `VITE_API_ENDPOINT` and `VITE_STORAGE_KEY`.
 
 ## Available Scripts
 

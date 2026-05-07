@@ -5,7 +5,7 @@ import { getCookie } from '../Utils/helper';
 import authGrid from '../Assets/images/auth-grid.svg';
 
 const PublicRoute = () => {
-    const token = getCookie(import.meta.env.VITE_TOKEN_KEY);
+    const token = getCookie(import.meta.env.VITE_STORAGE_KEY);
     const { pathname } = useLocation();
     const [isFading, setIsFading] = useState(false);
     const [currentText, setCurrentText] = useState('');

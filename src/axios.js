@@ -18,7 +18,7 @@ const Axios = axios.create({
 
 Axios.interceptors.request.use(
   (req) => {
-    const token = getCookie(import.meta.env.VITE_TOKEN_KEY)
+    const token = getCookie(import.meta.env.VITE_STORAGE_KEY)
     if (!req.headers.Authorization && token) {
       req.headers.Authorization = token
       return req

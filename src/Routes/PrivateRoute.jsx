@@ -4,7 +4,7 @@ import Header from '../Common/Components/Header/Header';
 import paths from './paths';
 
 const PrivateRoute = () => {
-    const token = getCookie(import.meta.env.VITE_TOKEN_KEY);
+    const token = getCookie(import.meta.env.VITE_STORAGE_KEY);
 
     if (!token) {
         return <Navigate to={paths.public.auth.login} replace={true} />;

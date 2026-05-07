@@ -16,7 +16,7 @@ const Login = () => {
     const onSubmit = (data) => {
         mutate({ sEmail: data.sEmail, sPassword: data.password })
 
-        // setCookie(import.meta.env.VITE_TOKEN_KEY, 'sampleToken123', 7);
+        // setCookie(import.meta.env.VITE_STORAGE_KEY, 'sampleToken123', 7);
         // navigate(paths.private.dashboard);
     };
 

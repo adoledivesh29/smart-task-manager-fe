@@ -15,7 +15,7 @@ export const useLoginMutation = (reset) => {
     onSuccess: (response) => {
       if (response?.headers?.authorization) {
         CustomToast('Login Successfully');
-        setCookie(import.meta.env.VITE_TOKEN_KEY, response.headers.authorization, 9 / 24);
+        setCookie(import.meta.env.VITE_STORAGE_KEY, response.headers.authorization, 9 / 24);
         navigate(paths.private.dashboard);
       }
     },
