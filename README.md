@@ -46,11 +46,8 @@ npm install
 2. Create or update your `.env` file in the project root:
 
 ```env
-VITE_TOKEN_KEY='tk_smart_task_manager'
-VITE_ENV='development'
-VITE_API_ENDPOINT_DEV='http://localhost:3013/api/v1/user'
-VITE_API_ENDPOINT_STAGING='https://your-staging-api.example.com/api/v1/user'
-VITE_API_ENDPOINT='https://your-production-api.example.com/api/v1/user'
+VITE_TOKEN_KEY='your_cookie_key_name'
+VITE_API_ENDPOINT='https://your-api.example.com/api/v1/user'
 ```
 
 3. Start the development server:
@@ -61,17 +58,7 @@ npm run dev
 
 4. Open `http://localhost:5173`
 
-## Environment Variables
-
-| Variable | Required | Description |
-| --- | --- | --- |
-| `VITE_TOKEN_KEY` | Yes | Cookie key used to store the auth token. |
-| `VITE_ENV` | Yes | Environment selector used by `src/axios.js`. Supported values: `development`, `staging`, `production`. |
-| `VITE_API_ENDPOINT_DEV` | For development | Base API URL used when `VITE_ENV=development`. |
-| `VITE_API_ENDPOINT_STAGING` | For staging | Base API URL used when `VITE_ENV=staging`. |
-| `VITE_API_ENDPOINT` | For production | Base API URL used when `VITE_ENV=production`. |
-
-Important: the frontend appends routes like `/auth/login`, `/tasks`, and `/profile` to the selected base URL, so the base URL should already include the API prefix used by your backend.
+For deployment, the app only requires `VITE_API_ENDPOINT` and `VITE_TOKEN_KEY`.
 
 ## Available Scripts
 
@@ -80,13 +67,7 @@ Important: the frontend appends routes like `/auth/login`, `/tasks`, and `/profi
 - `npm run preview` serves the production build locally
 - `npm run lint` runs ESLint
 
-Note: the current `build` script uses Windows-style syntax:
-
-```json
-"build": "CI=false & vite build"
-```
-
-If you need cross-platform builds, consider switching that to a `cross-env` based command.
+The build script uses Vite directly and outputs production assets to `dist/`.
 
 ## Application Flow
 

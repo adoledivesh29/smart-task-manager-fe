@@ -3,14 +3,12 @@ import { getCookie, removeAllCookies } from './Utils/helper'
 import paths from './Routes/paths'
 
 const getBaseURL = () => {
-  if (import.meta.env.VITE_ENV === 'development') {
-    return import.meta.env.VITE_API_ENDPOINT_DEV
-  } else if (import.meta.env.VITE_ENV === 'staging') {
-    return import.meta.env.VITE_API_ENDPOINT_STAGING
-  } else {
-    // production
-    return import.meta.env.VITE_API_ENDPOINT
-  }
+  return (
+    import.meta.env.VITE_API_ENDPOINT ||
+    import.meta.env.VITE_API_ENDPOINT_DEV ||
+    import.meta.env.VITE_API_ENDPOINT_STAGING ||
+    ''
+  )
 }
 
 const Axios = axios.create({
