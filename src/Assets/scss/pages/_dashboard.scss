@@ -387,11 +387,14 @@
 }
 
 .task-card {
+    position: relative;
     display: flex;
     flex-direction: column;
     gap: 18px;
     min-height: 240px;
     padding: 20px;
+    overflow: hidden;
+    border-left: 4px solid #94a3b8;
     border-radius: 24px;
     background:
         radial-gradient(circle at top right, rgba(236, 253, 245, 0.75), transparent 26%),
@@ -422,15 +425,59 @@
     }
 }
 
+.task-card__wash {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+}
+
 .task-card__top,
 .task-card__meta {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 12px;
 }
 
+.task-card__identity {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-width: 0;
+}
+
+.task-card__icon {
+    flex-shrink: 0;
+    width: 44px;
+    height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.4);
+
+    svg {
+        width: 22px;
+        height: 22px;
+    }
+}
+
+.task-card__heading {
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.task-card__date {
+    color: #64748b;
+    font-size: 12px;
+    line-height: 1.4;
+}
+
 .task-card__body {
+    position: relative;
     flex: 1;
 
     h3 {
@@ -463,10 +510,12 @@
     min-height: 30px;
     padding: 0 12px;
     border-radius: 999px;
+    border: 1px solid transparent;
     font-size: 11px;
     font-weight: 700;
     letter-spacing: 0.1em;
     text-transform: uppercase;
+    width: fit-content;
 }
 
 .task-action-btn {
@@ -515,6 +564,7 @@
 }
 
 .task-difficulty {
+    position: relative;
     flex: 1;
     min-width: 0;
 }
@@ -557,6 +607,20 @@
     margin-top: 10px;
     font-size: 12px;
     font-weight: 700;
+}
+
+.task-card__footer-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 10px;
+}
+
+.task-card__category-note {
+    font-size: 12px;
+    font-weight: 700;
+    text-align: right;
 }
 
 .task-status-chip {
@@ -743,6 +807,21 @@
     .task-card__meta {
         align-items: flex-start;
         flex-direction: column;
+    }
+
+    .task-card__top {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .task-card__actions,
+    .task-card__footer-row {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .task-card__identity {
+        width: 100%;
     }
 
     .task-submit-btn {

@@ -2,24 +2,13 @@ import { useEffect, useState } from 'react'
 import CustomModal from '../../Common/Components/CustomModal/CustomModal'
 import { PROJECT_NAME } from '../../Common/Constant'
 import { useCreateTask, useDeleteTask, useGetTasks, useGetTasksMetadata, useToggleTask } from './hooks/taskHooks'
-
-const CATEGORY_COLORS = {
-    Coding: { bg: '#ede9fe', text: '#6d28d9' },
-    Work: { bg: '#dbeafe', text: '#1d4ed8' },
-    Personal: { bg: '#fae8ff', text: '#a21caf' },
-    Finance: { bg: '#dcfce7', text: '#15803d' },
-    Health: { bg: '#fef3c7', text: '#b45309' },
-    Home: { bg: '#fee2e2', text: '#b91c1c' },
-    General: { bg: '#e2e8f0', text: '#334155' }
-}
-
-const getCategoryStyle = (category) => CATEGORY_COLORS[category] || CATEGORY_COLORS.General
-
-const getDifficultyTone = (score) => {
-    if (score > 7) return { color: '#dc2626', label: 'High focus', track: '#fecaca' }
-    if (score > 4) return { color: '#d97706', label: 'Balanced', track: '#fde68a' }
-    return { color: '#0f766e', label: 'Quick win', track: '#99f6e4' }
-}
+import {
+    formatTaskCreatedDate,
+    getTaskCategoryIcon,
+    getTaskCategoryTheme,
+    getDifficultyMeta,
+    getDifficultyPercent
+} from './taskUi'
 
 const getMetadataValue = (metadata, keys, fallback = 0) => {
     for (const key of keys) {
@@ -104,19 +93,95 @@ const TaskForm = () => {
     )
 }
 
+const TaskCategoryBadge = ({ theme }) => (
+    <span
+        className="task-category-badge"
+        style={{
+            backgroundColor: theme.badgeBg,
+            color: theme.accent,
+            borderColor: theme.borderSoft
+        }}
+    >
+        {theme.label}
+    </span>
+)
+
+const CategoryGlyph = ({ icon }) => {
+    switch (icon) {
+    case 'heart-pulse':
+        return (
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+                <path d="M3 12h3l2-4 3 8 2-4h8" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+        )
+    case 'briefcase':
+        return (
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+                <path d="M9 6V4h6v2" strokeLinecap="round" strokeLinejoin="round" />
+                <rect x="3" y="6" width="18" height="13" rx="2" />
+                <path d="M3 11h18" strokeLinecap="round" />
+            </svg>
+        )
+    case 'wallet':
+        return (
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+                <path d="M4 7.5A2.5 2.5 0 0 1 6.5 5H18a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H6.5A2.5 2.5 0 0 1 4 16.5v-9Z" />
+                <path d="M15 12h3" strokeLinecap="round" />
+            </svg>
+        )
+    case 'book-open':
+        return (
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+                <path d="M12 7a3 3 0 0 0-3-3H5v15h4a3 3 0 0 1 3 3m0-15a3 3 0 0 1 3-3h4v15h-4a3 3 0 0 0-3 3" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+        )
+    case 'user':
+        return (
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+                <circle cx="12" cy="8" r="3.2" />
+                <path d="M5 19a7 7 0 0 1 14 0" strokeLinecap="round" />
+            </svg>
+        )
+    default:
+        return (
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.9">
+                <path d="M9 12.75 11.25 15 15 9.75" strokeLinecap="round" strokeLinejoin="round" />
+                <path d="M19.5 12c0 4.142-3.358 7.5-7.5 7.5S4.5 16.142 4.5 12 7.858 4.5 12 4.5 19.5 7.858 19.5 12Z" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+        )
+    }
+}
+
 const TaskCard = ({ task, onRequestDelete }) => {
     const { mutate: toggleTask, isLoading: isToggling } = useToggleTask()
-    const difficultyTone = getDifficultyTone(task.nDifficultyScore)
-    const categoryTone = getCategoryStyle(task.sCategory)
+    const difficultyMeta = getDifficultyMeta(task.nDifficultyScore)
+    const difficultyPercent = getDifficultyPercent(task.nDifficultyScore)
+    const theme = getTaskCategoryTheme(task)
+    const categoryIcon = getTaskCategoryIcon(task)
     const isDone = task.bIsCompleted
-    const difficultyPercent = Math.min(Math.max(Math.round((task.nDifficultyScore / 10) * 100), 0), 100)
+    const createdDate = formatTaskCreatedDate(task)
 
     return (
-        <article className={`task-card ${isDone ? 'task-card--done' : ''}`}>
+        <article
+            className={`task-card ${isDone ? 'task-card--done' : ''}`}
+            style={{
+                borderLeftColor: theme.accent,
+                boxShadow: isDone ? '0 14px 28px rgba(15, 23, 42, 0.05)' : `0 18px 34px ${theme.glow}`
+            }}
+        >
+            <div className="task-card__wash" style={{ background: `linear-gradient(135deg, ${theme.panelWash}, transparent 55%)` }} />
+
             <div className="task-card__top">
-                <span className="task-category-badge" style={{ backgroundColor: categoryTone.bg, color: categoryTone.text }}>
-                    {task.sCategory || 'General'}
-                </span>
+                <div className="task-card__identity">
+                    <div className="task-card__icon" style={{ backgroundColor: theme.iconBg, color: theme.accent }}>
+                        <CategoryGlyph icon={categoryIcon} />
+                    </div>
+                    <div className="task-card__heading">
+                        <TaskCategoryBadge theme={theme} />
+                        <span className="task-card__date">{createdDate}</span>
+                    </div>
+                </div>
+
                 <div className="task-card__actions">
                     <button
                         type="button"
@@ -156,23 +221,28 @@ const TaskCard = ({ task, onRequestDelete }) => {
                 <div className="task-difficulty">
                     <div className="task-difficulty__header">
                         <span>Difficulty</span>
-                        <strong style={{ color: isDone ? '#94a3b8' : difficultyTone.color }}>
-                            {task.nDifficultyScore}/10
+                        <strong style={{ color: isDone ? '#94a3b8' : difficultyMeta.accent }}>
+                            {difficultyMeta.score}/10
                         </strong>
                     </div>
-                    <div className="difficulty-bar-track">
+                    <div className="difficulty-bar-track" style={{ backgroundColor: isDone ? '#e2e8f0' : theme.trackBg }}>
                         <div
                             className="difficulty-bar-fill"
                             style={{
                                 width: `${difficultyPercent}%`,
-                                backgroundColor: isDone ? '#cbd5e1' : difficultyTone.color,
-                                boxShadow: isDone ? 'none' : `0 0 18px ${difficultyTone.track}`
+                                backgroundColor: isDone ? '#cbd5e1' : theme.accent,
+                                boxShadow: isDone ? 'none' : `0 0 18px ${theme.glow}`
                             }}
                         />
                     </div>
-                    <span className="task-difficulty__label" style={{ color: isDone ? '#94a3b8' : difficultyTone.color }}>
-                        {difficultyTone.label}
-                    </span>
+                    <div className="task-card__footer-row">
+                        <span className="task-difficulty__label" style={{ color: isDone ? '#94a3b8' : difficultyMeta.accent }}>
+                            {difficultyMeta.label}
+                        </span>
+                        <span className="task-card__category-note" style={{ color: isDone ? '#94a3b8' : theme.accent }}>
+                            AI tagged as {theme.label}
+                        </span>
+                    </div>
                 </div>
 
                 <div className={`task-status-chip ${isDone ? 'task-status-chip--done' : 'task-status-chip--pending'}`}>
@@ -193,7 +263,7 @@ const EmptyState = () => (
             </svg>
         </div>
         <h3>Your board is clear.</h3>
-        <p>Add the first task above and the dashboard will start grouping your workload automatically.</p>
+        <p>Add the first task above and the dashboard will start grouping your workload automatically with AI category styling.</p>
     </div>
 )
 
