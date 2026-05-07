@@ -1,159 +1,344 @@
-# Smart Task Manager Frontend
+# Smart Task Manager Frontend 🚀
 
-Frontend for a smart task manager built with React and Vite. The app handles authentication, protected routing, task management, profile updates, and password flows, while relying on a backend API for task scoring, categorization, and user management.
+AI-assisted task management frontend built with **React + Vite** featuring authentication, protected routes, AI-enriched task metadata, dynamic category-based UI styling, and responsive dashboard management.
 
-## Overview
+This application consumes a Node.js + MongoDB backend and renders intelligent task insights such as difficulty score, category color, and icon metadata generated through AI processing.
 
-This project provides:
+---
 
-- Public auth screens for sign in, sign up, and reset password
-- Protected dashboard access based on an auth token stored in cookies
-- Task creation, listing, completion toggle, and deletion
-- Dashboard stats driven by task metadata from the backend
-- Profile details and change-password flows from the header menu
-- Shared form validation, API helpers, toast notifications, and reusable UI components
+# ✨ Features
 
-The current UI suggests AI-assisted task organization, but the actual categorization and difficulty scoring are backend-driven. The frontend simply renders the values returned by the API.
+## Authentication System
 
-## Tech Stack
+- User registration and login
+- Protected route handling
+- Cookie-based authentication
+- Password reset support
+- Persistent auth sessions
+
+## Task Management
+
+- Create tasks
+- Complete/uncomplete tasks
+- Delete tasks
+- AI-generated task categorization
+- Difficulty scoring visualization
+- Dynamic category-based styling
+
+## AI-Enriched Dashboard
+
+Each task can include:
+
+- AI category classification
+- Difficulty score
+- Dynamic color theme
+- Context-aware category icon
+
+Example:
+
+```json
+{
+  "sCategory": "Health",
+  "nDifficultyScore": 8,
+  "sCategoryColor": "#EF4444",
+  "sCategoryIcon": "heart-pulse"
+}
+```
+
+## Responsive UI
+
+- Mobile-friendly layout
+- Card-based dashboard design
+- Dynamic visual states
+- Graceful loading and empty states
+- Error handling support
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
 
 - React 18
 - Vite 6
 - React Router DOM 7
-- React Query 3
-- React Hook Form 7
+- React Query
+- React Hook Form
 - Axios
 - Material UI
 - Bootstrap
 - Sass
 - React Hot Toast
 
-## Requirements
+## Backend Compatibility
 
-- Node.js `v22.16.0`
-- npm
+Designed to work with:
 
-Node version is pinned in [.nvmrc](/d:/REACT/smart-task-manager-fe/.nvmrc:1).
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Gemini AI integration
 
-## Getting Started
+---
 
-1. Install dependencies:
+# 📂 Project Structure
+
+```text
+src/
+│
+├── Assets/
+│   ├── images/
+│   └── scss/
+│
+├── Common/
+│   ├── Components/
+│   ├── Hooks/
+│   └── Constant/
+│
+├── Pages/
+│   ├── Auth/
+│   └── Dashboard/
+│
+├── Routes/
+│
+├── Utils/
+│
+├── axios.js
+├── App.jsx
+└── main.jsx
+
+public/
+└── _redirects
+```
+
+---
+
+# 🔐 Authentication Flow
+
+Authentication is handled using a cookie-based token system.
+
+## Auth Features
+
+- Automatic token injection via Axios interceptor
+- Protected route redirection
+- Automatic logout on invalid session
+- Persistent login state
+
+## Protected Route
+
+```text
+/dashboard
+```
+
+If the auth token is missing or invalid, users are redirected to:
+
+```text
+/login
+```
+
+---
+
+# 🎨 Dynamic Task Styling
+
+The dashboard UI dynamically changes based on backend AI metadata.
+
+## Supported Dynamic UI States
+
+- Category badge color
+- Task card border color
+- Progress accents
+- Difficulty indicators
+- Dynamic icons
+
+## Fallback Handling
+
+If metadata is missing:
+
+- Default neutral theme is applied
+- Generic task icon is rendered
+- Safe fallback labels are used
+
+---
+
+# ⚙️ Environment Variables
+
+Create a `.env` file in the root directory.
+
+## Required Variables
+
+```env
+VITE_STORAGE_KEY='your_cookie_key'
+VITE_API_ENDPOINT='https://your-api-url.com/api/v1/user'
+```
+
+## Optional Variables
+
+```env
+VITE_API_ENDPOINT_DEV=http://localhost:3013/api/v1/user
+VITE_API_ENDPOINT_STAGING=https://staging-api-url.com/api/v1/user
+```
+
+---
+
+# 🚀 Local Development
+
+## Install Dependencies
 
 ```bash
 npm install
 ```
 
-2. Create or update your `.env` file in the project root:
-
-```env
-VITE_STORAGE_KEY='your_cookie_key_name'
-VITE_API_ENDPOINT='https://your-api.example.com/api/v1/user'
-```
-
-3. Start the development server:
+## Start Development Server
 
 ```bash
 npm run dev
 ```
 
-4. Open `http://localhost:5173`
-
-For deployment, the app only requires `VITE_API_ENDPOINT` and `VITE_STORAGE_KEY`.
-
-## Available Scripts
-
-- `npm run dev` starts the Vite dev server on port `5173`
-- `npm run build` creates a production build in `dist/`
-- `npm run preview` serves the production build locally
-- `npm run lint` runs ESLint
-
-The build script uses Vite directly and outputs production assets to `dist/`.
-
-## Application Flow
-
-### Public Routes
-
-- `/login`
-- `/signup`
-- `/reset-password/:token`
-
-### Private Routes
-
-- `/dashboard`
-
-Private routes are guarded in [src/Routes/PrivateRoute.jsx](/d:/REACT/smart-task-manager-fe/src/Routes/PrivateRoute.jsx:1). If the auth cookie is missing, users are redirected to `/login`.
-
-## API Expectations
-
-The frontend expects these backend endpoints under the configured base URL:
-
-### Auth
-
-- `POST /auth/login`
-- `POST /auth/register`
-- `POST /auth/token`
-- `POST /auth/password/reset`
-
-### Tasks
-
-- `GET /tasks`
-- `GET /tasks/metadata`
-- `POST /tasks`
-- `POST /tasks/:id/toggle`
-- `DELETE /tasks/:id`
-
-### Profile
-
-- `GET /profile`
-- `PUT /profile/update`
-- `POST /profile/logout`
-- `POST /profile/change/password`
-
-The login flow expects the backend to return the auth token in the `authorization` response header.
-
-## Project Structure
+Application runs on:
 
 ```text
-src/
-  Assets/                 Static images, icons, and Sass files
-  Common/
-    Components/           Shared UI like header, modal, inputs, loader
-    Constant/             App constants, API keys, validation rules
-    Hooks/                Shared custom hooks
-  Pages/
-    Auth/                 Login, signup, reset password, auth hooks/queries
-    Dashboard/            Dashboard UI, task hooks, and task API queries
-  Routes/                 Route definitions and public/private guards
-  Utils/                  Cookie helpers, toast helpers, formatting utilities
-  axios.js                Shared Axios instance and interceptors
-  App.jsx                 Query client setup and lazy route loading
-  main.jsx                App bootstrap
+http://localhost:5173
 ```
 
-## State, Data, and Auth Notes
+---
 
-- Server state is managed with React Query
-- Forms are managed with React Hook Form
-- Auth is cookie-based through helper functions in [src/Utils/helper.js](/d:/REACT/smart-task-manager-fe/src/Utils/helper.js:1)
-- Axios automatically adds the auth token to outgoing requests
-- `401` and `417` responses trigger logout behavior and redirect the user back to `/login`
+# 📦 Available Scripts
 
-## Styling
+## Development
 
-- Global styling is organized with Sass under `src/Assets/scss`
-- Bootstrap is loaded globally
-- Material UI is used for buttons, dialogs, spinners, and form-adjacent UI pieces
+```bash
+npm run dev
+```
 
-## Current Notes
+Starts Vite development server.
 
-- There is no automated test suite configured yet
-- The repository contains a generated `dist/` folder
-- Some shared constants and helpers are broader than the current task-manager scope, which suggests this project was adapted from a larger starter codebase
+## Production Build
 
-## Recommended Next Improvements
+```bash
+npm run build
+```
 
-- Add automated tests for auth flows and task operations
-- Add a committed `.env.example`
-- Normalize password validation rules across login, signup, reset, and change-password screens
-- Add route-level 404 handling instead of redirecting all unknown paths to `/dashboard`
-- Review `vite.config.js` carefully before production use and keep only the build settings you intend to ship
+Builds optimized production assets.
+
+## Preview Production Build
+
+```bash
+npm run preview
+```
+
+## ESLint
+
+```bash
+npm run lint
+```
+
+---
+
+# 🌐 Netlify Deployment
+
+This project supports SPA routing using Netlify redirects.
+
+## Required Redirect File
+
+```text
+public/_redirects
+```
+
+Content:
+
+```text
+/*    /index.html   200
+```
+
+Without this configuration, refreshing routes like `/dashboard` or `/login` may result in a 404 error.
+
+---
+
+# 🔌 Backend API Requirements
+
+The frontend expects the following API endpoints.
+
+## Authentication
+
+```text
+POST /auth/login
+POST /auth/register
+POST /auth/token
+POST /auth/password/reset
+```
+
+## Tasks
+
+```text
+GET /tasks
+GET /tasks/metadata
+POST /tasks
+POST /tasks/:id/toggle
+DELETE /tasks/:id
+```
+
+## Profile
+
+```text
+GET /profile
+PUT /profile/update
+POST /profile/logout
+POST /profile/change/password
+```
+
+---
+
+# 🧠 AI-Assisted Development Workflow
+
+This project was built using an AI-accelerated engineering workflow and completed in approximately **3 hours**.
+
+AI tools were used to improve productivity, accelerate debugging, reduce boilerplate effort, and optimize development speed while maintaining manual control over architecture and implementation decisions.
+
+---
+
+# 🤖 AI Tools Used
+
+## Cursor
+
+- Used to scaffold React + Vite application structure
+- Assisted with rapid component generation
+- Accelerated route handling and API integration
+- Helped optimize React hooks and reusable patterns
+
+## ChatGPT
+
+- Used for architecture planning and implementation strategy
+- Assisted with backend integration patterns
+- Helped debug deployment and authentication issues
+- Assisted in refining project documentation
+- Helped optimize dynamic task metadata rendering
+
+## Codex
+
+- Used for rapid UI experimentation
+- Assisted in reusable component logic generation
+- Accelerated dashboard implementation workflows
+
+## Antigravity
+
+- Used to accelerate development iteration speed
+- Assisted in reducing repetitive boilerplate implementation
+- Improved engineering workflow productivity
+
+---
+
+# 🧩 AI Usage Examples
+
+- Used Cursor to scaffold the React application structure
+- Used ChatGPT to design AI-enriched task metadata flow
+- Used Cursor to accelerate protected route implementation
+- Used ChatGPT to debug Netlify deployment issues
+- Used AI-assisted iteration to implement category-based UI rendering
+- Used Codex to speed up reusable dashboard component creation
+- Used ChatGPT to refine developer documentation and architecture decisions
+
+
+# 📄 License
+
+This project is currently intended for educational, portfolio, and demonstration purposes.
