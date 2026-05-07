@@ -1,0 +1,107 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.formatDocument": "explicit",
+    "source.fixAll.eslint": "explicit",
+    "source.removeUnusedImports": "always"
+  },
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "files.associations": {
+    "*.html": "html"
+  },
+  "editor.tabSize": 4,
+  "git.enableSmartCommit": true,
+  "files.autoSave": "onWindowChange",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.factorypath": true,
+    "**/.project": true,
+    "**/.settings": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
+  },
+  "javascript.preferences.autoImportFileExcludePatterns": ["**/globals/**", "globals"],
+  "typescript.preferences.autoImportFileExcludePatterns": ["**/globals/**"],
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist/**": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "html.format.enable": false,
+  "html.format.preserveNewLines": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+  "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+  "typescript.preferences.importModuleSpecifierEnding": "js",
+  "git.confirmSync": false,
+  "editor.foldingMaximumRegions": 50000,
+  "editor.linkedEditing": true,
+  "git.autofetch": true,
+  "editor.inlineSuggest.enabled": true,
+  "better-comments.multilineComments": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    }
+  ],
+  "turboConsoleLog.quote": "`",
+  "turboConsoleLog.logMessagePrefix": "🐣 Console Log here ::",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "files.insertFinalNewline": true,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.minimap.showSlider": "always",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.preferTypeOnlyAutoImports": true
+}

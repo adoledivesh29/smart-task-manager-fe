@@ -1,0 +1,46 @@
+.common-input-container {
+    margin-top: 10px !important;
+
+    .common-input {
+        .MuiFormLabel-root {
+            transform: translate(14px, 12px) scale(1);
+            font-size: 14px;
+            font-family: 'Outfit', sans-serif;
+
+            &.Mui-focused,
+            &.MuiInputLabel-shrink {
+                transform: translate(14px, -7px) scale(0.75);
+            }
+        }
+
+        .MuiInputBase-root {
+            input {
+                padding: 12px 14px;
+                font-size: 14px;
+                font-family: 'Outfit', sans-serif;
+
+                &:disabled {
+                    cursor: not-allowed;
+                }
+            }
+
+            .MuiOutlinedInput-notchedOutline {
+                border-radius: 8px;
+            }
+
+            .MuiSvgIcon-root {
+                font-size: 16px;
+
+                &:hover {
+                    color: var(--primary-color);
+                }
+            }
+        }
+
+    }
+
+    .Mui-error {
+        font-family: 'Outfit', sans-serif;
+        margin: 4px 0px 0px;
+    }
+}

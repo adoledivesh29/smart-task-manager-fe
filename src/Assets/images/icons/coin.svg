@@ -1,0 +1,1475 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" id="polka-dot-gold-coin">
+  <g style="isolation:isolate">
+    <path fill="#f18817" d="M529.93,920c227.89,0,412.63-188,412.63-420S757.82,80,529.93,80H469.61V920h60.32"></path>
+    <circle cx="477.44" cy="500" r="420" fill="#fbe101"></circle>
+    <circle cx="477.44" cy="500" r="333.2" fill="#f8c805"></circle>
+    <path fill="#fff" d="M162.22 391.81L585.64 815.23a333 333 0 00114.91-67.76L230 276.9A332.88 332.88 0 00162.22 391.81zM801.67 577.08l-401.3-401.3a330.72 330.72 0 00-74.47 27.4L774.27 651.54A330.82 330.82 0 00801.67 577.08z" opacity=".2" style="mix-blend-mode:screen"></path>
+    <path fill="#fff" d="M79,500C79,271.65,261.27,85.86,488.24,80.14q-5.39-.14-10.8-.14c-232,0-420,188-420,420s188,420,420,420q5.42,0,10.8-.14C261.27,914.14,79,728.35,79,500Z" opacity=".5" style="mix-blend-mode:screen"></path>
+    <path fill="#fff" d="M621.87,212.48c161,95.44,214.25,303.37,118.81,464.43A337.47,337.47,0,0,1,577.44,817.83a332,332,0,0,0,186.66-148c93.81-158.32,41.52-362.71-116.79-456.52A331.56,331.56,0,0,0,483.4,166.81,337.62,337.62,0,0,1,621.87,212.48Z" style="mix-blend-mode:screen"></path>
+    <path fill="#f18817" d="M307.58,786.65A331.91,331.91,0,0,0,544,826.49a331.71,331.71,0,0,1-201.94-45C183.71,687.68,131.42,483.29,225.24,325A332.35,332.35,0,0,1,445.37,168.35c-102.11,10-198.27,66.76-254.58,161.78C97,488.45,149.27,692.84,307.58,786.65Z"></path>
+    <ellipse cx="494.45" cy="354.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="494.45" cy="679.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.96" cy="435.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.953 435.895)"></ellipse>
+    <ellipse cx="634.93" cy="598.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.918 598.11)"></ellipse>
+    <ellipse cx="353.97" cy="598.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.977 598.108)"></ellipse>
+    <ellipse cx="634.94" cy="435.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.957 435.916)"></ellipse>
+    <ellipse cx="494.35" cy="354.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="494.35" cy="679.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.86" cy="435.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.86 435.796)"></ellipse>
+    <ellipse cx="634.83" cy="598.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.816 598.006)"></ellipse>
+    <ellipse cx="353.87" cy="598" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.88 598.022)"></ellipse>
+    <ellipse cx="634.84" cy="435.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.865 435.811)"></ellipse>
+    <ellipse cx="494.25" cy="354.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="494.25" cy="679.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.76" cy="435.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.754 435.7)"></ellipse>
+    <ellipse cx="634.73" cy="597.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.71 597.91)"></ellipse>
+    <ellipse cx="353.77" cy="597.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.789 597.917)"></ellipse>
+    <ellipse cx="634.74" cy="435.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.768 435.725)"></ellipse>
+    <ellipse cx="494.15" cy="354.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="494.15" cy="678.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.66" cy="435.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.653 435.595)"></ellipse>
+    <ellipse cx="634.63" cy="597.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.618 597.81)"></ellipse>
+    <ellipse cx="353.67" cy="597.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.678 597.808)"></ellipse>
+    <ellipse cx="634.64" cy="435.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.657 435.616)"></ellipse>
+    <ellipse cx="494.05" cy="354.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="494.05" cy="678.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.56" cy="435.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.56 435.496)"></ellipse>
+    <ellipse cx="634.53" cy="597.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.516 597.706)"></ellipse>
+    <ellipse cx="353.57" cy="597.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.58 597.722)"></ellipse>
+    <ellipse cx="634.54" cy="435.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.565 435.511)"></ellipse>
+    <ellipse cx="493.95" cy="354.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.95" cy="678.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.46" cy="435.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.454 435.4)"></ellipse>
+    <ellipse cx="634.43" cy="597.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.41 597.61)"></ellipse>
+    <ellipse cx="353.47" cy="597.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.489 597.617)"></ellipse>
+    <ellipse cx="634.44" cy="435.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.468 435.425)"></ellipse>
+    <ellipse cx="493.85" cy="354.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.85" cy="678.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.36" cy="435.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.353 435.295)"></ellipse>
+    <ellipse cx="634.33" cy="597.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.317 597.51)"></ellipse>
+    <ellipse cx="353.37" cy="597.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.378 597.507)"></ellipse>
+    <ellipse cx="634.34" cy="435.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.358 435.316)"></ellipse>
+    <ellipse cx="493.75" cy="354.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.75" cy="678.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.26" cy="435.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.26 435.195)"></ellipse>
+    <ellipse cx="634.23" cy="597.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.216 597.405)"></ellipse>
+    <ellipse cx="353.27" cy="597.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.281 597.421)"></ellipse>
+    <ellipse cx="634.24" cy="435.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.266 435.21)"></ellipse>
+    <ellipse cx="493.65" cy="353.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.65" cy="678.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.16" cy="435.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.154 435.1)"></ellipse>
+    <ellipse cx="634.13" cy="597.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.11 597.31)"></ellipse>
+    <ellipse cx="353.17" cy="597.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.19 597.317)"></ellipse>
+    <ellipse cx="634.14" cy="435.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.169 435.125)"></ellipse>
+    <ellipse cx="493.55" cy="353.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.55" cy="678.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="353.06" cy="435" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 353.053 434.995)"></ellipse>
+    <ellipse cx="634.03" cy="597.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 634.017 597.21)"></ellipse>
+    <ellipse cx="353.07" cy="597.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 353.079 597.207)"></ellipse>
+    <ellipse cx="634.04" cy="435.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 634.058 435.015)"></ellipse>
+    <ellipse cx="493.45" cy="353.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.45" cy="678.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.96" cy="434.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.96 434.895)"></ellipse>
+    <ellipse cx="633.93" cy="597.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.916 597.105)"></ellipse>
+    <ellipse cx="352.97" cy="597.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.982 597.121)"></ellipse>
+    <ellipse cx="633.94" cy="434.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.966 434.91)"></ellipse>
+    <ellipse cx="493.35" cy="353.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.35" cy="678.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.86" cy="434.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.854 434.799)"></ellipse>
+    <ellipse cx="633.83" cy="597.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.81 597.009)"></ellipse>
+    <ellipse cx="352.87" cy="597" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.89 597.017)"></ellipse>
+    <ellipse cx="633.84" cy="434.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.85 434.82)"></ellipse>
+    <ellipse cx="493.25" cy="353.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.25" cy="678.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.76" cy="434.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.753 434.694)"></ellipse>
+    <ellipse cx="633.73" cy="596.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.717 596.91)"></ellipse>
+    <ellipse cx="352.77" cy="596.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.78 596.907)"></ellipse>
+    <ellipse cx="633.74" cy="434.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.758 434.715)"></ellipse>
+    <ellipse cx="493.15" cy="353.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.15" cy="677.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.66" cy="434.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.66 434.595)"></ellipse>
+    <ellipse cx="633.63" cy="596.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.616 596.805)"></ellipse>
+    <ellipse cx="352.67" cy="596.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.682 596.82)"></ellipse>
+    <ellipse cx="633.64" cy="434.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.666 434.61)"></ellipse>
+    <ellipse cx="493.05" cy="353.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="493.05" cy="677.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.56" cy="434.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.554 434.499)"></ellipse>
+    <ellipse cx="633.53" cy="596.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.519 596.714)"></ellipse>
+    <ellipse cx="352.57" cy="596.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.59 596.716)"></ellipse>
+    <ellipse cx="633.54" cy="434.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.55 434.52)"></ellipse>
+    <ellipse cx="492.95" cy="353.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.95" cy="677.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.46" cy="434.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.461 434.4)"></ellipse>
+    <ellipse cx="633.43" cy="596.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.417 596.61)"></ellipse>
+    <ellipse cx="352.47" cy="596.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.48 596.607)"></ellipse>
+    <ellipse cx="633.44" cy="434.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.459 434.415)"></ellipse>
+    <ellipse cx="492.85" cy="353.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.85" cy="677.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.36" cy="434.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.36 434.294)"></ellipse>
+    <ellipse cx="633.33" cy="596.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.316 596.504)"></ellipse>
+    <ellipse cx="352.37" cy="596.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.383 596.52)"></ellipse>
+    <ellipse cx="633.34" cy="434.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.367 434.31)"></ellipse>
+    <ellipse cx="492.75" cy="353.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.75" cy="677.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.26" cy="434.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.254 434.198)"></ellipse>
+    <ellipse cx="633.23" cy="596.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.218 596.413)"></ellipse>
+    <ellipse cx="352.27" cy="596.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.29 596.416)"></ellipse>
+    <ellipse cx="633.24" cy="434.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.251 434.22)"></ellipse>
+    <ellipse cx="492.65" cy="352.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.65" cy="677.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.16" cy="434.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.161 434.099)"></ellipse>
+    <ellipse cx="633.13" cy="596.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.117 596.309)"></ellipse>
+    <ellipse cx="352.17" cy="596.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.18 596.306)"></ellipse>
+    <ellipse cx="633.14" cy="434.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.16 434.115)"></ellipse>
+    <ellipse cx="492.55" cy="352.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.55" cy="677.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="352.06" cy="434" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 352.06 433.994)"></ellipse>
+    <ellipse cx="633.03" cy="596.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 633.016 596.204)"></ellipse>
+    <ellipse cx="352.07" cy="596.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 352.083 596.22)"></ellipse>
+    <ellipse cx="633.04" cy="434.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 633.067 434.01)"></ellipse>
+    <ellipse cx="492.45" cy="352.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.45" cy="677.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.96" cy="433.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.954 433.898)"></ellipse>
+    <ellipse cx="632.93" cy="596.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.918 596.113)"></ellipse>
+    <ellipse cx="351.97" cy="596.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.991 596.116)"></ellipse>
+    <ellipse cx="632.94" cy="433.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.952 433.919)"></ellipse>
+    <ellipse cx="492.35" cy="352.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.35" cy="677.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.86" cy="433.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.861 433.799)"></ellipse>
+    <ellipse cx="632.83" cy="596.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.817 596.009)"></ellipse>
+    <ellipse cx="351.87" cy="596" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.88 596.006)"></ellipse>
+    <ellipse cx="632.84" cy="433.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.86 433.814)"></ellipse>
+    <ellipse cx="492.25" cy="352.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.25" cy="677.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.76" cy="433.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.76 433.694)"></ellipse>
+    <ellipse cx="632.73" cy="595.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.716 595.904)"></ellipse>
+    <ellipse cx="351.77" cy="595.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.784 595.92)"></ellipse>
+    <ellipse cx="632.74" cy="433.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.768 433.71)"></ellipse>
+    <ellipse cx="492.15" cy="352.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.15" cy="676.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.66" cy="433.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.654 433.598)"></ellipse>
+    <ellipse cx="632.63" cy="595.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.618 595.813)"></ellipse>
+    <ellipse cx="351.67" cy="595.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.692 595.816)"></ellipse>
+    <ellipse cx="632.64" cy="433.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.652 433.619)"></ellipse>
+    <ellipse cx="492.05" cy="352.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="492.05" cy="676.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.56" cy="433.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.561 433.498)"></ellipse>
+    <ellipse cx="632.53" cy="595.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.517 595.708)"></ellipse>
+    <ellipse cx="351.57" cy="595.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.581 595.706)"></ellipse>
+    <ellipse cx="632.54" cy="433.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.56 433.514)"></ellipse>
+    <ellipse cx="491.95" cy="352.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.95" cy="676.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.46" cy="433.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.46 433.394)"></ellipse>
+    <ellipse cx="632.43" cy="595.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.41 595.612)"></ellipse>
+    <ellipse cx="351.47" cy="595.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.484 595.62)"></ellipse>
+    <ellipse cx="632.44" cy="433.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.468 433.41)"></ellipse>
+    <ellipse cx="491.85" cy="352.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.85" cy="676.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.36" cy="433.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.354 433.298)"></ellipse>
+    <ellipse cx="632.33" cy="595.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.318 595.513)"></ellipse>
+    <ellipse cx="351.37" cy="595.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.392 595.515)"></ellipse>
+    <ellipse cx="632.34" cy="433.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.353 433.318)"></ellipse>
+    <ellipse cx="491.75" cy="352.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.75" cy="676.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.26" cy="433.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.261 433.198)"></ellipse>
+    <ellipse cx="632.23" cy="595.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.217 595.408)"></ellipse>
+    <ellipse cx="351.27" cy="595.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.282 595.406)"></ellipse>
+    <ellipse cx="632.24" cy="433.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.26 433.214)"></ellipse>
+    <ellipse cx="491.65" cy="351.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.65" cy="676.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.16" cy="433.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.16 433.093)"></ellipse>
+    <ellipse cx="632.13" cy="595.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.11 595.312)"></ellipse>
+    <ellipse cx="351.17" cy="595.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.185 595.32)"></ellipse>
+    <ellipse cx="632.14" cy="433.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.169 433.11)"></ellipse>
+    <ellipse cx="491.55" cy="351.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.55" cy="676.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="351.06" cy="433" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 351.054 432.997)"></ellipse>
+    <ellipse cx="632.03" cy="595.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 632.018 595.212)"></ellipse>
+    <ellipse cx="351.07" cy="595.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 351.093 595.215)"></ellipse>
+    <ellipse cx="632.04" cy="433.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 632.053 433.018)"></ellipse>
+    <ellipse cx="491.45" cy="351.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.45" cy="676.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.96" cy="432.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.961 432.898)"></ellipse>
+    <ellipse cx="631.93" cy="595.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.917 595.108)"></ellipse>
+    <ellipse cx="350.97" cy="595.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.982 595.105)"></ellipse>
+    <ellipse cx="631.94" cy="432.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.961 432.913)"></ellipse>
+    <ellipse cx="491.35" cy="351.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.35" cy="676.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.86" cy="432.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.855 432.802)"></ellipse>
+    <ellipse cx="631.83" cy="595.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.81 595.012)"></ellipse>
+    <ellipse cx="350.87" cy="595" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.885 595.02)"></ellipse>
+    <ellipse cx="631.84" cy="432.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.87 432.809)"></ellipse>
+    <ellipse cx="491.25" cy="351.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.25" cy="676.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.76" cy="432.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.753 432.697)"></ellipse>
+    <ellipse cx="631.73" cy="594.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.718 594.912)"></ellipse>
+    <ellipse cx="350.77" cy="594.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.793 594.915)"></ellipse>
+    <ellipse cx="631.74" cy="432.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.754 432.718)"></ellipse>
+    <ellipse cx="491.15" cy="351.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.15" cy="675.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.66" cy="432.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.66 432.598)"></ellipse>
+    <ellipse cx="631.63" cy="594.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.617 594.808)"></ellipse>
+    <ellipse cx="350.67" cy="594.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.682 594.805)"></ellipse>
+    <ellipse cx="631.64" cy="432.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.662 432.613)"></ellipse>
+    <ellipse cx="491.05" cy="351.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="491.05" cy="675.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.56" cy="432.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.555 432.502)"></ellipse>
+    <ellipse cx="631.53" cy="594.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.51 594.712)"></ellipse>
+    <ellipse cx="350.57" cy="594.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.585 594.72)"></ellipse>
+    <ellipse cx="631.54" cy="432.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.57 432.509)"></ellipse>
+    <ellipse cx="490.95" cy="351.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.95" cy="675.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.46" cy="432.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.453 432.397)"></ellipse>
+    <ellipse cx="631.43" cy="594.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.418 594.612)"></ellipse>
+    <ellipse cx="350.47" cy="594.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.494 594.614)"></ellipse>
+    <ellipse cx="631.44" cy="432.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.454 432.418)"></ellipse>
+    <ellipse cx="490.85" cy="351.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.85" cy="675.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.36" cy="432.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.36 432.297)"></ellipse>
+    <ellipse cx="631.33" cy="594.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.317 594.507)"></ellipse>
+    <ellipse cx="350.37" cy="594.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.383 594.505)"></ellipse>
+    <ellipse cx="631.34" cy="432.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.362 432.313)"></ellipse>
+    <ellipse cx="490.75" cy="351.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.75" cy="675.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.26" cy="432.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.255 432.201)"></ellipse>
+    <ellipse cx="631.23" cy="594.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.21 594.411)"></ellipse>
+    <ellipse cx="350.27" cy="594.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.286 594.419)"></ellipse>
+    <ellipse cx="631.24" cy="432.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.27 432.208)"></ellipse>
+    <ellipse cx="490.65" cy="350.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.65" cy="675.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.16" cy="432.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.153 432.097)"></ellipse>
+    <ellipse cx="631.13" cy="594.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.118 594.312)"></ellipse>
+    <ellipse cx="350.17" cy="594.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.194 594.314)"></ellipse>
+    <ellipse cx="631.14" cy="432.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.155 432.117)"></ellipse>
+    <ellipse cx="490.55" cy="350.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.55" cy="675.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="350.06" cy="432" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 350.06 431.997)"></ellipse>
+    <ellipse cx="631.03" cy="594.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 631.017 594.207)"></ellipse>
+    <ellipse cx="350.07" cy="594.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 350.083 594.205)"></ellipse>
+    <ellipse cx="631.04" cy="432.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 631.063 432.013)"></ellipse>
+    <ellipse cx="490.45" cy="350.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.45" cy="675.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.96" cy="431.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.955 431.901)"></ellipse>
+    <ellipse cx="630.93" cy="594.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.91 594.111)"></ellipse>
+    <ellipse cx="349.97" cy="594.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.986 594.119)"></ellipse>
+    <ellipse cx="630.94" cy="431.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.97 431.908)"></ellipse>
+    <ellipse cx="490.35" cy="350.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.35" cy="675.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.86" cy="431.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.853 431.796)"></ellipse>
+    <ellipse cx="630.83" cy="594.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.818 594.011)"></ellipse>
+    <ellipse cx="349.87" cy="594" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.894 594.014)"></ellipse>
+    <ellipse cx="630.84" cy="431.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.855 431.817)"></ellipse>
+    <ellipse cx="490.25" cy="350.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.25" cy="675.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.76" cy="431.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.76 431.697)"></ellipse>
+    <ellipse cx="630.73" cy="593.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.717 593.907)"></ellipse>
+    <ellipse cx="349.77" cy="593.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.784 593.904)"></ellipse>
+    <ellipse cx="630.74" cy="431.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.763 431.712)"></ellipse>
+    <ellipse cx="490.15" cy="350.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.15" cy="674.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.66" cy="431.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.654 431.6)"></ellipse>
+    <ellipse cx="630.63" cy="593.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.61 593.81)"></ellipse>
+    <ellipse cx="349.67" cy="593.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.687 593.818)"></ellipse>
+    <ellipse cx="630.64" cy="431.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.666 431.626)"></ellipse>
+    <ellipse cx="490.05" cy="350.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="490.05" cy="674.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.56" cy="431.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.553 431.496)"></ellipse>
+    <ellipse cx="630.53" cy="593.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.518 593.711)"></ellipse>
+    <ellipse cx="349.57" cy="593.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.595 593.714)"></ellipse>
+    <ellipse cx="630.54" cy="431.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.555 431.517)"></ellipse>
+    <ellipse cx="489.95" cy="350.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.95" cy="674.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.46" cy="431.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.46 431.396)"></ellipse>
+    <ellipse cx="630.43" cy="593.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.417 593.606)"></ellipse>
+    <ellipse cx="349.47" cy="593.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.484 593.604)"></ellipse>
+    <ellipse cx="630.44" cy="431.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.463 431.412)"></ellipse>
+    <ellipse cx="489.85" cy="350.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.85" cy="674.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.36" cy="431.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.354 431.3)"></ellipse>
+    <ellipse cx="630.33" cy="593.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.31 593.51)"></ellipse>
+    <ellipse cx="349.37" cy="593.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.387 593.518)"></ellipse>
+    <ellipse cx="630.34" cy="431.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.366 431.326)"></ellipse>
+    <ellipse cx="489.75" cy="350.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.75" cy="674.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.26" cy="431.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.253 431.196)"></ellipse>
+    <ellipse cx="630.23" cy="593.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.218 593.41)"></ellipse>
+    <ellipse cx="349.27" cy="593.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.295 593.413)"></ellipse>
+    <ellipse cx="630.24" cy="431.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.256 431.217)"></ellipse>
+    <ellipse cx="489.65" cy="349.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.65" cy="674.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.16" cy="431.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.16 431.096)"></ellipse>
+    <ellipse cx="630.13" cy="593.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.116 593.306)"></ellipse>
+    <ellipse cx="349.17" cy="593.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.185 593.304)"></ellipse>
+    <ellipse cx="630.14" cy="431.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.164 431.112)"></ellipse>
+    <ellipse cx="489.55" cy="349.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.55" cy="674.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="349.06" cy="431" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 349.054 431)"></ellipse>
+    <ellipse cx="630.03" cy="593.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 630.01 593.21)"></ellipse>
+    <ellipse cx="349.07" cy="593.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 349.088 593.218)"></ellipse>
+    <ellipse cx="630.04" cy="431.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 630.067 431.026)"></ellipse>
+    <ellipse cx="489.45" cy="349.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.45" cy="674.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.96" cy="430.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.953 430.896)"></ellipse>
+    <ellipse cx="629.93" cy="593.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.918 593.11)"></ellipse>
+    <ellipse cx="348.97" cy="593.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.996 593.113)"></ellipse>
+    <ellipse cx="629.94" cy="430.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.956 430.916)"></ellipse>
+    <ellipse cx="489.35" cy="349.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.35" cy="674.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.86" cy="430.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.86 430.796)"></ellipse>
+    <ellipse cx="629.83" cy="593.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.816 593.006)"></ellipse>
+    <ellipse cx="348.87" cy="593" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.88 593.022)"></ellipse>
+    <ellipse cx="629.84" cy="430.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.864 430.812)"></ellipse>
+    <ellipse cx="489.25" cy="349.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.25" cy="674.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.76" cy="430.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.754 430.7)"></ellipse>
+    <ellipse cx="629.73" cy="592.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.71 592.91)"></ellipse>
+    <ellipse cx="348.77" cy="592.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.788 592.918)"></ellipse>
+    <ellipse cx="629.74" cy="430.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.767 430.726)"></ellipse>
+    <ellipse cx="489.15" cy="349.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.15" cy="673.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.66" cy="430.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.653 430.595)"></ellipse>
+    <ellipse cx="629.63" cy="592.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.618 592.81)"></ellipse>
+    <ellipse cx="348.67" cy="592.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.678 592.808)"></ellipse>
+    <ellipse cx="629.64" cy="430.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.657 430.616)"></ellipse>
+    <ellipse cx="489.05" cy="349.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="489.05" cy="673.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.56" cy="430.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.56 430.496)"></ellipse>
+    <ellipse cx="629.53" cy="592.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.516 592.706)"></ellipse>
+    <ellipse cx="348.57" cy="592.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.58 592.722)"></ellipse>
+    <ellipse cx="629.54" cy="430.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.565 430.511)"></ellipse>
+    <ellipse cx="488.95" cy="349.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.95" cy="673.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.46" cy="430.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.454 430.4)"></ellipse>
+    <ellipse cx="629.43" cy="592.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.41 592.61)"></ellipse>
+    <ellipse cx="348.47" cy="592.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.489 592.617)"></ellipse>
+    <ellipse cx="629.44" cy="430.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.468 430.425)"></ellipse>
+    <ellipse cx="488.85" cy="349.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.85" cy="673.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.36" cy="430.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.353 430.295)"></ellipse>
+    <ellipse cx="629.33" cy="592.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.318 592.51)"></ellipse>
+    <ellipse cx="348.37" cy="592.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.378 592.508)"></ellipse>
+    <ellipse cx="629.34" cy="430.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.357 430.316)"></ellipse>
+    <ellipse cx="488.75" cy="349.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.75" cy="673.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.26" cy="430.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.26 430.195)"></ellipse>
+    <ellipse cx="629.23" cy="592.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.216 592.405)"></ellipse>
+    <ellipse cx="348.27" cy="592.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.281 592.422)"></ellipse>
+    <ellipse cx="629.24" cy="430.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.265 430.211)"></ellipse>
+    <ellipse cx="488.65" cy="348.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.65" cy="673.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.16" cy="430.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.154 430.1)"></ellipse>
+    <ellipse cx="629.13" cy="592.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.11 592.31)"></ellipse>
+    <ellipse cx="348.17" cy="592.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.19 592.317)"></ellipse>
+    <ellipse cx="629.14" cy="430.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.168 430.125)"></ellipse>
+    <ellipse cx="488.55" cy="348.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.55" cy="673.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="348.06" cy="430" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 348.053 429.995)"></ellipse>
+    <ellipse cx="629.03" cy="592.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 629.017 592.21)"></ellipse>
+    <ellipse cx="348.07" cy="592.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 348.079 592.207)"></ellipse>
+    <ellipse cx="629.04" cy="430.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 629.058 430.016)"></ellipse>
+    <ellipse cx="488.45" cy="348.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.45" cy="673.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.96" cy="429.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.96 429.895)"></ellipse>
+    <ellipse cx="628.93" cy="592.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.916 592.105)"></ellipse>
+    <ellipse cx="347.97" cy="592.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.982 592.121)"></ellipse>
+    <ellipse cx="628.94" cy="429.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.966 429.91)"></ellipse>
+    <ellipse cx="488.35" cy="348.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.35" cy="673.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.86" cy="429.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.854 429.8)"></ellipse>
+    <ellipse cx="628.83" cy="592.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.81 592.01)"></ellipse>
+    <ellipse cx="347.87" cy="592" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.89 592.017)"></ellipse>
+    <ellipse cx="628.84" cy="429.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.869 429.825)"></ellipse>
+    <ellipse cx="488.25" cy="348.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.25" cy="673.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.76" cy="429.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.753 429.695)"></ellipse>
+    <ellipse cx="628.73" cy="591.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.717 591.91)"></ellipse>
+    <ellipse cx="347.77" cy="591.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.779 591.907)"></ellipse>
+    <ellipse cx="628.74" cy="429.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.758 429.715)"></ellipse>
+    <ellipse cx="488.15" cy="348.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.15" cy="672.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.66" cy="429.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.66 429.595)"></ellipse>
+    <ellipse cx="628.63" cy="591.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.616 591.805)"></ellipse>
+    <ellipse cx="347.67" cy="591.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.682 591.821)"></ellipse>
+    <ellipse cx="628.64" cy="429.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.666 429.61)"></ellipse>
+    <ellipse cx="488.05" cy="348.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="488.05" cy="672.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.56" cy="429.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.554 429.499)"></ellipse>
+    <ellipse cx="628.53" cy="591.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.519 591.714)"></ellipse>
+    <ellipse cx="347.57" cy="591.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.59 591.716)"></ellipse>
+    <ellipse cx="628.54" cy="429.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.55 429.52)"></ellipse>
+    <ellipse cx="487.95" cy="348.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.95" cy="672.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.46" cy="429.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.461 429.4)"></ellipse>
+    <ellipse cx="628.43" cy="591.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.417 591.61)"></ellipse>
+    <ellipse cx="347.47" cy="591.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.48 591.607)"></ellipse>
+    <ellipse cx="628.44" cy="429.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.459 429.415)"></ellipse>
+    <ellipse cx="487.85" cy="348.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.85" cy="672.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.36" cy="429.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.36 429.295)"></ellipse>
+    <ellipse cx="628.33" cy="591.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.316 591.505)"></ellipse>
+    <ellipse cx="347.37" cy="591.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.382 591.52)"></ellipse>
+    <ellipse cx="628.34" cy="429.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.367 429.31)"></ellipse>
+    <ellipse cx="487.75" cy="348.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.75" cy="672.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.26" cy="429.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.254 429.199)"></ellipse>
+    <ellipse cx="628.23" cy="591.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.218 591.414)"></ellipse>
+    <ellipse cx="347.27" cy="591.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.29 591.416)"></ellipse>
+    <ellipse cx="628.24" cy="429.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.251 429.22)"></ellipse>
+    <ellipse cx="487.65" cy="347.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.65" cy="672.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.16" cy="429.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.161 429.099)"></ellipse>
+    <ellipse cx="628.13" cy="591.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.117 591.309)"></ellipse>
+    <ellipse cx="347.17" cy="591.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.18 591.307)"></ellipse>
+    <ellipse cx="628.14" cy="429.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.16 429.115)"></ellipse>
+    <ellipse cx="487.55" cy="347.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.55" cy="672.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="347.06" cy="429" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 347.06 428.994)"></ellipse>
+    <ellipse cx="628.03" cy="591.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 628.016 591.204)"></ellipse>
+    <ellipse cx="347.07" cy="591.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 347.083 591.22)"></ellipse>
+    <ellipse cx="628.04" cy="429.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 628.067 429.01)"></ellipse>
+    <ellipse cx="487.45" cy="347.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.45" cy="672.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.96" cy="428.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.954 428.898)"></ellipse>
+    <ellipse cx="627.93" cy="591.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.918 591.113)"></ellipse>
+    <ellipse cx="346.97" cy="591.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.991 591.116)"></ellipse>
+    <ellipse cx="627.94" cy="428.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.951 428.92)"></ellipse>
+    <ellipse cx="487.35" cy="347.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.35" cy="672.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.86" cy="428.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.861 428.799)"></ellipse>
+    <ellipse cx="627.83" cy="591.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.817 591.009)"></ellipse>
+    <ellipse cx="346.87" cy="591" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.88 591.006)"></ellipse>
+    <ellipse cx="627.84" cy="428.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.86 428.814)"></ellipse>
+    <ellipse cx="487.25" cy="347.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.25" cy="672.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.76" cy="428.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.76 428.694)"></ellipse>
+    <ellipse cx="627.73" cy="590.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.716 590.904)"></ellipse>
+    <ellipse cx="346.77" cy="590.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.783 590.92)"></ellipse>
+    <ellipse cx="627.74" cy="428.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.768 428.71)"></ellipse>
+    <ellipse cx="487.15" cy="347.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.15" cy="671.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.66" cy="428.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.654 428.598)"></ellipse>
+    <ellipse cx="627.63" cy="590.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.618 590.813)"></ellipse>
+    <ellipse cx="346.67" cy="590.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.691 590.816)"></ellipse>
+    <ellipse cx="627.64" cy="428.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.652 428.619)"></ellipse>
+    <ellipse cx="487.05" cy="347.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="487.05" cy="671.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.56" cy="428.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.561 428.498)"></ellipse>
+    <ellipse cx="627.53" cy="590.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.517 590.708)"></ellipse>
+    <ellipse cx="346.57" cy="590.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.58 590.706)"></ellipse>
+    <ellipse cx="627.54" cy="428.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.56 428.514)"></ellipse>
+    <ellipse cx="486.95" cy="347.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.95" cy="671.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.46" cy="428.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.46 428.394)"></ellipse>
+    <ellipse cx="627.43" cy="590.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.41 590.613)"></ellipse>
+    <ellipse cx="346.47" cy="590.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.484 590.62)"></ellipse>
+    <ellipse cx="627.44" cy="428.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.468 428.41)"></ellipse>
+    <ellipse cx="486.85" cy="347.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.85" cy="671.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.36" cy="428.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.354 428.298)"></ellipse>
+    <ellipse cx="627.33" cy="590.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.318 590.513)"></ellipse>
+    <ellipse cx="346.37" cy="590.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.392 590.515)"></ellipse>
+    <ellipse cx="627.34" cy="428.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.352 428.319)"></ellipse>
+    <ellipse cx="486.75" cy="347.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.75" cy="671.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.26" cy="428.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.261 428.198)"></ellipse>
+    <ellipse cx="627.23" cy="590.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.217 590.408)"></ellipse>
+    <ellipse cx="346.27" cy="590.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.281 590.406)"></ellipse>
+    <ellipse cx="627.24" cy="428.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.26 428.214)"></ellipse>
+    <ellipse cx="486.65" cy="346.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.65" cy="671.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.16" cy="428.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.16 428.094)"></ellipse>
+    <ellipse cx="627.13" cy="590.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.11 590.312)"></ellipse>
+    <ellipse cx="346.17" cy="590.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.184 590.32)"></ellipse>
+    <ellipse cx="627.14" cy="428.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.168 428.11)"></ellipse>
+    <ellipse cx="486.55" cy="346.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.55" cy="671.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="346.06" cy="428" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 346.054 427.998)"></ellipse>
+    <ellipse cx="627.03" cy="590.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 627.018 590.213)"></ellipse>
+    <ellipse cx="346.07" cy="590.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 346.092 590.215)"></ellipse>
+    <ellipse cx="627.04" cy="428.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 627.053 428.018)"></ellipse>
+    <ellipse cx="486.45" cy="346.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.45" cy="671.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.96" cy="427.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.961 427.898)"></ellipse>
+    <ellipse cx="626.93" cy="590.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.917 590.108)"></ellipse>
+    <ellipse cx="345.97" cy="590.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.982 590.106)"></ellipse>
+    <ellipse cx="626.94" cy="427.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.96 427.914)"></ellipse>
+    <ellipse cx="486.35" cy="346.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.35" cy="671.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.86" cy="427.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.86 427.793)"></ellipse>
+    <ellipse cx="626.83" cy="590.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.81 590.012)"></ellipse>
+    <ellipse cx="345.87" cy="590" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.885 590.02)"></ellipse>
+    <ellipse cx="626.84" cy="427.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.869 427.809)"></ellipse>
+    <ellipse cx="486.25" cy="346.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.25" cy="671.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.76" cy="427.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.754 427.697)"></ellipse>
+    <ellipse cx="626.73" cy="589.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.718 589.912)"></ellipse>
+    <ellipse cx="345.77" cy="589.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.793 589.915)"></ellipse>
+    <ellipse cx="626.74" cy="427.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.753 427.718)"></ellipse>
+    <ellipse cx="486.15" cy="346.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.15" cy="670.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.66" cy="427.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.66 427.598)"></ellipse>
+    <ellipse cx="626.63" cy="589.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.617 589.808)"></ellipse>
+    <ellipse cx="345.67" cy="589.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.682 589.805)"></ellipse>
+    <ellipse cx="626.64" cy="427.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.661 427.613)"></ellipse>
+    <ellipse cx="486.05" cy="346.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="486.05" cy="670.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.56" cy="427.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.555 427.502)"></ellipse>
+    <ellipse cx="626.53" cy="589.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.51 589.712)"></ellipse>
+    <ellipse cx="345.57" cy="589.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.585 589.72)"></ellipse>
+    <ellipse cx="626.54" cy="427.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.57 427.509)"></ellipse>
+    <ellipse cx="485.95" cy="346.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.95" cy="670.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.46" cy="427.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.453 427.397)"></ellipse>
+    <ellipse cx="626.43" cy="589.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.418 589.612)"></ellipse>
+    <ellipse cx="345.47" cy="589.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.493 589.615)"></ellipse>
+    <ellipse cx="626.44" cy="427.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.454 427.418)"></ellipse>
+    <ellipse cx="485.85" cy="346.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.85" cy="670.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.36" cy="427.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.36 427.297)"></ellipse>
+    <ellipse cx="626.33" cy="589.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.317 589.507)"></ellipse>
+    <ellipse cx="345.37" cy="589.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.383 589.505)"></ellipse>
+    <ellipse cx="626.34" cy="427.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.362 427.313)"></ellipse>
+    <ellipse cx="485.75" cy="346.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.75" cy="670.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.26" cy="427.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.255 427.201)"></ellipse>
+    <ellipse cx="626.23" cy="589.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.21 589.411)"></ellipse>
+    <ellipse cx="345.27" cy="589.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.286 589.419)"></ellipse>
+    <ellipse cx="626.24" cy="427.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.27 427.208)"></ellipse>
+    <ellipse cx="485.65" cy="345.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.65" cy="670.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.16" cy="427.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.153 427.097)"></ellipse>
+    <ellipse cx="626.13" cy="589.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.118 589.312)"></ellipse>
+    <ellipse cx="345.17" cy="589.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.194 589.314)"></ellipse>
+    <ellipse cx="626.14" cy="427.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.154 427.118)"></ellipse>
+    <ellipse cx="485.55" cy="345.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.55" cy="670.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="345.06" cy="427" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 345.06 426.997)"></ellipse>
+    <ellipse cx="626.03" cy="589.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 626.017 589.207)"></ellipse>
+    <ellipse cx="345.07" cy="589.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 345.083 589.205)"></ellipse>
+    <ellipse cx="626.04" cy="427.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 626.062 427.013)"></ellipse>
+    <ellipse cx="485.45" cy="345.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.45" cy="670.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.96" cy="426.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.955 426.901)"></ellipse>
+    <ellipse cx="625.93" cy="589.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.91 589.111)"></ellipse>
+    <ellipse cx="344.97" cy="589.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.986 589.119)"></ellipse>
+    <ellipse cx="625.94" cy="426.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.97 426.908)"></ellipse>
+    <ellipse cx="485.35" cy="345.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.35" cy="670.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.86" cy="426.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.853 426.797)"></ellipse>
+    <ellipse cx="625.83" cy="589.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.818 589.012)"></ellipse>
+    <ellipse cx="344.87" cy="589" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.894 589.014)"></ellipse>
+    <ellipse cx="625.84" cy="426.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.855 426.817)"></ellipse>
+    <ellipse cx="485.25" cy="345.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.25" cy="670.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.76" cy="426.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.76 426.697)"></ellipse>
+    <ellipse cx="625.73" cy="588.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.717 588.907)"></ellipse>
+    <ellipse cx="344.77" cy="588.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.784 588.904)"></ellipse>
+    <ellipse cx="625.74" cy="426.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.763 426.713)"></ellipse>
+    <ellipse cx="485.15" cy="345.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.15" cy="669.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.66" cy="426.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.654 426.6)"></ellipse>
+    <ellipse cx="625.63" cy="588.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.61 588.81)"></ellipse>
+    <ellipse cx="344.67" cy="588.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.687 588.818)"></ellipse>
+    <ellipse cx="625.64" cy="426.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.67 426.608)"></ellipse>
+    <ellipse cx="485.05" cy="345.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="485.05" cy="669.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.56" cy="426.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.553 426.496)"></ellipse>
+    <ellipse cx="625.53" cy="588.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.518 588.711)"></ellipse>
+    <ellipse cx="344.57" cy="588.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.595 588.714)"></ellipse>
+    <ellipse cx="625.54" cy="426.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.555 426.517)"></ellipse>
+    <ellipse cx="484.95" cy="345.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.95" cy="669.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.46" cy="426.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.46 426.397)"></ellipse>
+    <ellipse cx="625.43" cy="588.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.417 588.607)"></ellipse>
+    <ellipse cx="344.47" cy="588.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.484 588.604)"></ellipse>
+    <ellipse cx="625.44" cy="426.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.463 426.412)"></ellipse>
+    <ellipse cx="484.85" cy="345.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.85" cy="669.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.36" cy="426.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.354 426.3)"></ellipse>
+    <ellipse cx="625.33" cy="588.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.31 588.51)"></ellipse>
+    <ellipse cx="344.37" cy="588.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.387 588.518)"></ellipse>
+    <ellipse cx="625.34" cy="426.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.366 426.326)"></ellipse>
+    <ellipse cx="484.75" cy="345.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.75" cy="669.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.26" cy="426.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.253 426.196)"></ellipse>
+    <ellipse cx="625.23" cy="588.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.218 588.411)"></ellipse>
+    <ellipse cx="344.27" cy="588.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.295 588.414)"></ellipse>
+    <ellipse cx="625.24" cy="426.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.256 426.217)"></ellipse>
+    <ellipse cx="484.65" cy="344.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.65" cy="669.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.16" cy="426.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.16 426.096)"></ellipse>
+    <ellipse cx="625.13" cy="588.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.117 588.306)"></ellipse>
+    <ellipse cx="344.17" cy="588.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.184 588.304)"></ellipse>
+    <ellipse cx="625.14" cy="426.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.164 426.112)"></ellipse>
+    <ellipse cx="484.55" cy="344.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.55" cy="669.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="344.06" cy="426" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 344.054 426)"></ellipse>
+    <ellipse cx="625.03" cy="588.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 625.01 588.21)"></ellipse>
+    <ellipse cx="344.07" cy="588.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 344.087 588.218)"></ellipse>
+    <ellipse cx="625.04" cy="426.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 625.067 426.026)"></ellipse>
+    <ellipse cx="484.45" cy="344.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.45" cy="669.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.96" cy="425.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.953 425.896)"></ellipse>
+    <ellipse cx="624.93" cy="588.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.918 588.11)"></ellipse>
+    <ellipse cx="343.97" cy="588.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.996 588.113)"></ellipse>
+    <ellipse cx="624.94" cy="425.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.956 425.916)"></ellipse>
+    <ellipse cx="484.35" cy="344.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.35" cy="669.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.86" cy="425.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.86 425.796)"></ellipse>
+    <ellipse cx="624.83" cy="588.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.816 588.006)"></ellipse>
+    <ellipse cx="343.87" cy="588" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.88 588.022)"></ellipse>
+    <ellipse cx="624.84" cy="425.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.864 425.812)"></ellipse>
+    <ellipse cx="484.25" cy="344.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.25" cy="669.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.76" cy="425.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.754 425.7)"></ellipse>
+    <ellipse cx="624.73" cy="587.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.71 587.91)"></ellipse>
+    <ellipse cx="343.77" cy="587.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.788 587.918)"></ellipse>
+    <ellipse cx="624.74" cy="425.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.767 425.726)"></ellipse>
+    <ellipse cx="484.15" cy="344.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.15" cy="668.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.66" cy="425.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.653 425.595)"></ellipse>
+    <ellipse cx="624.63" cy="587.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.618 587.81)"></ellipse>
+    <ellipse cx="343.67" cy="587.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.677 587.808)"></ellipse>
+    <ellipse cx="624.64" cy="425.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.656 425.616)"></ellipse>
+    <ellipse cx="484.05" cy="344.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="484.05" cy="668.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.56" cy="425.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.56 425.496)"></ellipse>
+    <ellipse cx="624.53" cy="587.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.516 587.706)"></ellipse>
+    <ellipse cx="343.57" cy="587.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.58 587.722)"></ellipse>
+    <ellipse cx="624.54" cy="425.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.565 425.512)"></ellipse>
+    <ellipse cx="483.95" cy="344.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.95" cy="668.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.46" cy="425.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.454 425.4)"></ellipse>
+    <ellipse cx="624.43" cy="587.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.41 587.61)"></ellipse>
+    <ellipse cx="343.47" cy="587.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.488 587.617)"></ellipse>
+    <ellipse cx="624.44" cy="425.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.468 425.426)"></ellipse>
+    <ellipse cx="483.85" cy="344.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.85" cy="668.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.36" cy="425.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.353 425.295)"></ellipse>
+    <ellipse cx="624.33" cy="587.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.318 587.51)"></ellipse>
+    <ellipse cx="343.37" cy="587.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.378 587.508)"></ellipse>
+    <ellipse cx="624.34" cy="425.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.357 425.316)"></ellipse>
+    <ellipse cx="483.75" cy="344.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.75" cy="668.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.26" cy="425.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.26 425.196)"></ellipse>
+    <ellipse cx="624.23" cy="587.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.216 587.406)"></ellipse>
+    <ellipse cx="343.27" cy="587.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.28 587.422)"></ellipse>
+    <ellipse cx="624.24" cy="425.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.265 425.211)"></ellipse>
+    <ellipse cx="483.65" cy="343.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.65" cy="668.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.16" cy="425.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.154 425.1)"></ellipse>
+    <ellipse cx="624.13" cy="587.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.11 587.31)"></ellipse>
+    <ellipse cx="343.17" cy="587.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.189 587.317)"></ellipse>
+    <ellipse cx="624.14" cy="425.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.168 425.125)"></ellipse>
+    <ellipse cx="483.55" cy="343.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.55" cy="668.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="343.06" cy="425" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 343.053 424.995)"></ellipse>
+    <ellipse cx="624.03" cy="587.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 624.018 587.21)"></ellipse>
+    <ellipse cx="343.07" cy="587.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 343.078 587.208)"></ellipse>
+    <ellipse cx="624.04" cy="425.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 624.057 425.016)"></ellipse>
+    <ellipse cx="483.45" cy="343.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.45" cy="668.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.96" cy="424.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.96 424.895)"></ellipse>
+    <ellipse cx="623.93" cy="587.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.916 587.105)"></ellipse>
+    <ellipse cx="342.97" cy="587.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.981 587.122)"></ellipse>
+    <ellipse cx="623.94" cy="424.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.965 424.911)"></ellipse>
+    <ellipse cx="483.35" cy="343.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.35" cy="668.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.86" cy="424.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.854 424.8)"></ellipse>
+    <ellipse cx="623.83" cy="587.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.81 587.01)"></ellipse>
+    <ellipse cx="342.87" cy="587" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.89 587.017)"></ellipse>
+    <ellipse cx="623.84" cy="424.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.868 424.825)"></ellipse>
+    <ellipse cx="483.25" cy="343.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.25" cy="668.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.76" cy="424.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.753 424.695)"></ellipse>
+    <ellipse cx="623.73" cy="586.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.717 586.91)"></ellipse>
+    <ellipse cx="342.77" cy="586.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.779 586.907)"></ellipse>
+    <ellipse cx="623.74" cy="424.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.758 424.715)"></ellipse>
+    <ellipse cx="483.15" cy="343.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.15" cy="667.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.66" cy="424.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.66 424.595)"></ellipse>
+    <ellipse cx="623.63" cy="586.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.616 586.805)"></ellipse>
+    <ellipse cx="342.67" cy="586.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.682 586.821)"></ellipse>
+    <ellipse cx="623.64" cy="424.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.666 424.61)"></ellipse>
+    <ellipse cx="483.05" cy="343.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="483.05" cy="667.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.56" cy="424.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.554 424.5)"></ellipse>
+    <ellipse cx="623.53" cy="586.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.519 586.714)"></ellipse>
+    <ellipse cx="342.57" cy="586.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.59 586.717)"></ellipse>
+    <ellipse cx="623.54" cy="424.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.55 424.52)"></ellipse>
+    <ellipse cx="482.95" cy="343.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.95" cy="667.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.46" cy="424.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.461 424.4)"></ellipse>
+    <ellipse cx="623.43" cy="586.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.417 586.61)"></ellipse>
+    <ellipse cx="342.47" cy="586.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.48 586.607)"></ellipse>
+    <ellipse cx="623.44" cy="424.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.458 424.415)"></ellipse>
+    <ellipse cx="482.85" cy="343.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.85" cy="667.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.36" cy="424.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.36 424.295)"></ellipse>
+    <ellipse cx="623.33" cy="586.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.316 586.505)"></ellipse>
+    <ellipse cx="342.37" cy="586.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.382 586.521)"></ellipse>
+    <ellipse cx="623.34" cy="424.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.366 424.31)"></ellipse>
+    <ellipse cx="482.75" cy="343.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.75" cy="667.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.26" cy="424.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.254 424.199)"></ellipse>
+    <ellipse cx="623.23" cy="586.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.219 586.414)"></ellipse>
+    <ellipse cx="342.27" cy="586.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.29 586.416)"></ellipse>
+    <ellipse cx="623.24" cy="424.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.25 424.22)"></ellipse>
+    <ellipse cx="482.65" cy="342.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.65" cy="667.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.16" cy="424.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.161 424.1)"></ellipse>
+    <ellipse cx="623.13" cy="586.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.117 586.31)"></ellipse>
+    <ellipse cx="342.17" cy="586.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.18 586.307)"></ellipse>
+    <ellipse cx="623.14" cy="424.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.159 424.115)"></ellipse>
+    <ellipse cx="482.55" cy="342.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.55" cy="667.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="342.06" cy="424" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 342.06 423.995)"></ellipse>
+    <ellipse cx="623.03" cy="586.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 623.016 586.205)"></ellipse>
+    <ellipse cx="342.07" cy="586.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 342.083 586.22)"></ellipse>
+    <ellipse cx="623.04" cy="424.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 623.067 424.01)"></ellipse>
+    <ellipse cx="482.45" cy="342.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.45" cy="667.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.96" cy="423.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.954 423.899)"></ellipse>
+    <ellipse cx="622.93" cy="586.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.918 586.114)"></ellipse>
+    <ellipse cx="341.97" cy="586.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.99 586.116)"></ellipse>
+    <ellipse cx="622.94" cy="423.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.951 423.92)"></ellipse>
+    <ellipse cx="482.35" cy="342.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.35" cy="667.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.86" cy="423.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.861 423.799)"></ellipse>
+    <ellipse cx="622.83" cy="586.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.817 586.009)"></ellipse>
+    <ellipse cx="341.87" cy="586" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.88 586.006)"></ellipse>
+    <ellipse cx="622.84" cy="423.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.86 423.815)"></ellipse>
+    <ellipse cx="482.25" cy="342.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.25" cy="667.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.76" cy="423.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.76 423.694)"></ellipse>
+    <ellipse cx="622.73" cy="585.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.716 585.904)"></ellipse>
+    <ellipse cx="341.77" cy="585.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.783 585.92)"></ellipse>
+    <ellipse cx="622.74" cy="423.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.767 423.71)"></ellipse>
+    <ellipse cx="482.15" cy="342.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.15" cy="666.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.66" cy="423.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.654 423.598)"></ellipse>
+    <ellipse cx="622.63" cy="585.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.618 585.813)"></ellipse>
+    <ellipse cx="341.67" cy="585.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.691 585.816)"></ellipse>
+    <ellipse cx="622.64" cy="423.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.652 423.619)"></ellipse>
+    <ellipse cx="482.05" cy="342.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="482.05" cy="666.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.56" cy="423.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.561 423.499)"></ellipse>
+    <ellipse cx="622.53" cy="585.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.517 585.709)"></ellipse>
+    <ellipse cx="341.57" cy="585.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.58 585.706)"></ellipse>
+    <ellipse cx="622.54" cy="423.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.56 423.514)"></ellipse>
+    <ellipse cx="481.95" cy="342.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.95" cy="666.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.46" cy="423.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.46 423.394)"></ellipse>
+    <ellipse cx="622.43" cy="585.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.416 585.604)"></ellipse>
+    <ellipse cx="341.47" cy="585.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.484 585.62)"></ellipse>
+    <ellipse cx="622.44" cy="423.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.468 423.41)"></ellipse>
+    <ellipse cx="481.85" cy="342.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.85" cy="666.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.36" cy="423.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.354 423.298)"></ellipse>
+    <ellipse cx="622.33" cy="585.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.318 585.513)"></ellipse>
+    <ellipse cx="341.37" cy="585.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.392 585.516)"></ellipse>
+    <ellipse cx="622.34" cy="423.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.352 423.319)"></ellipse>
+    <ellipse cx="481.75" cy="342.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.75" cy="666.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.26" cy="423.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.261 423.198)"></ellipse>
+    <ellipse cx="622.23" cy="585.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.217 585.408)"></ellipse>
+    <ellipse cx="341.27" cy="585.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.28 585.406)"></ellipse>
+    <ellipse cx="622.24" cy="423.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.26 423.214)"></ellipse>
+    <ellipse cx="481.65" cy="341.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.65" cy="666.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.16" cy="423.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.16 423.094)"></ellipse>
+    <ellipse cx="622.13" cy="585.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.11 585.312)"></ellipse>
+    <ellipse cx="341.17" cy="585.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.184 585.32)"></ellipse>
+    <ellipse cx="622.14" cy="423.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.168 423.11)"></ellipse>
+    <ellipse cx="481.55" cy="341.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.55" cy="666.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="341.06" cy="423" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 341.054 422.998)"></ellipse>
+    <ellipse cx="622.03" cy="585.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 622.018 585.213)"></ellipse>
+    <ellipse cx="341.07" cy="585.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 341.092 585.215)"></ellipse>
+    <ellipse cx="622.04" cy="423.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 622.053 423.018)"></ellipse>
+    <ellipse cx="481.45" cy="341.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.45" cy="666.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.96" cy="422.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.961 422.898)"></ellipse>
+    <ellipse cx="621.93" cy="585.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.917 585.108)"></ellipse>
+    <ellipse cx="340.97" cy="585.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.981 585.106)"></ellipse>
+    <ellipse cx="621.94" cy="422.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.96 422.914)"></ellipse>
+    <ellipse cx="481.35" cy="341.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.35" cy="666.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.86" cy="422.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.86 422.793)"></ellipse>
+    <ellipse cx="621.83" cy="585.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.81 585.012)"></ellipse>
+    <ellipse cx="340.87" cy="585" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.884 585.02)"></ellipse>
+    <ellipse cx="621.84" cy="422.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.869 422.81)"></ellipse>
+    <ellipse cx="481.25" cy="341.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.25" cy="666.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.76" cy="422.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.754 422.698)"></ellipse>
+    <ellipse cx="621.73" cy="584.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.718 584.913)"></ellipse>
+    <ellipse cx="340.77" cy="584.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.792 584.915)"></ellipse>
+    <ellipse cx="621.74" cy="422.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.753 422.718)"></ellipse>
+    <ellipse cx="481.15" cy="341.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.15" cy="665.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.66" cy="422.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.661 422.598)"></ellipse>
+    <ellipse cx="621.63" cy="584.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.617 584.808)"></ellipse>
+    <ellipse cx="340.67" cy="584.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.682 584.805)"></ellipse>
+    <ellipse cx="621.64" cy="422.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.661 422.614)"></ellipse>
+    <ellipse cx="481.05" cy="341.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="481.05" cy="665.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.56" cy="422.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.56 422.493)"></ellipse>
+    <ellipse cx="621.53" cy="584.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.51 584.712)"></ellipse>
+    <ellipse cx="340.57" cy="584.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.585 584.72)"></ellipse>
+    <ellipse cx="621.54" cy="422.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.57 422.509)"></ellipse>
+    <ellipse cx="480.95" cy="341.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.95" cy="665.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.46" cy="422.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.453 422.397)"></ellipse>
+    <ellipse cx="621.43" cy="584.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.418 584.612)"></ellipse>
+    <ellipse cx="340.47" cy="584.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.493 584.615)"></ellipse>
+    <ellipse cx="621.44" cy="422.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.453 422.418)"></ellipse>
+    <ellipse cx="480.85" cy="341.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.85" cy="665.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.36" cy="422.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.36 422.298)"></ellipse>
+    <ellipse cx="621.33" cy="584.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.317 584.508)"></ellipse>
+    <ellipse cx="340.37" cy="584.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.382 584.505)"></ellipse>
+    <ellipse cx="621.34" cy="422.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.361 422.313)"></ellipse>
+    <ellipse cx="480.75" cy="341.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.75" cy="665.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.26" cy="422.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.255 422.202)"></ellipse>
+    <ellipse cx="621.23" cy="584.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.21 584.412)"></ellipse>
+    <ellipse cx="340.27" cy="584.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.285 584.42)"></ellipse>
+    <ellipse cx="621.24" cy="422.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.27 422.209)"></ellipse>
+    <ellipse cx="480.65" cy="340.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.65" cy="665.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.16" cy="422.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.153 422.097)"></ellipse>
+    <ellipse cx="621.13" cy="584.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.118 584.312)"></ellipse>
+    <ellipse cx="340.17" cy="584.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.193 584.315)"></ellipse>
+    <ellipse cx="621.14" cy="422.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.154 422.118)"></ellipse>
+    <ellipse cx="480.55" cy="340.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.55" cy="665.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="340.06" cy="422" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 340.06 421.997)"></ellipse>
+    <ellipse cx="621.03" cy="584.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 621.017 584.207)"></ellipse>
+    <ellipse cx="340.07" cy="584.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 340.083 584.205)"></ellipse>
+    <ellipse cx="621.04" cy="422.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 621.062 422.013)"></ellipse>
+    <ellipse cx="480.45" cy="340.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.45" cy="665.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.96" cy="421.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.955 421.901)"></ellipse>
+    <ellipse cx="620.93" cy="584.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.91 584.111)"></ellipse>
+    <ellipse cx="339.97" cy="584.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.986 584.119)"></ellipse>
+    <ellipse cx="620.94" cy="421.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.97 421.908)"></ellipse>
+    <ellipse cx="480.35" cy="340.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.35" cy="665.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.86" cy="421.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.853 421.797)"></ellipse>
+    <ellipse cx="620.83" cy="584.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.818 584.012)"></ellipse>
+    <ellipse cx="339.87" cy="584" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.894 584.014)"></ellipse>
+    <ellipse cx="620.84" cy="421.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.854 421.817)"></ellipse>
+    <ellipse cx="480.25" cy="340.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.25" cy="665.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.76" cy="421.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.76 421.697)"></ellipse>
+    <ellipse cx="620.73" cy="583.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.717 583.907)"></ellipse>
+    <ellipse cx="339.77" cy="583.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.783 583.905)"></ellipse>
+    <ellipse cx="620.74" cy="421.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.762 421.713)"></ellipse>
+    <ellipse cx="480.15" cy="340.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.15" cy="664.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.66" cy="421.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.655 421.601)"></ellipse>
+    <ellipse cx="620.63" cy="583.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.61 583.811)"></ellipse>
+    <ellipse cx="339.67" cy="583.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.686 583.819)"></ellipse>
+    <ellipse cx="620.64" cy="421.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.67 421.608)"></ellipse>
+    <ellipse cx="480.05" cy="340.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="480.05" cy="664.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.56" cy="421.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.553 421.496)"></ellipse>
+    <ellipse cx="620.53" cy="583.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.518 583.711)"></ellipse>
+    <ellipse cx="339.57" cy="583.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.594 583.714)"></ellipse>
+    <ellipse cx="620.54" cy="421.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.555 421.517)"></ellipse>
+    <ellipse cx="479.95" cy="340.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.95" cy="664.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.46" cy="421.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.46 421.397)"></ellipse>
+    <ellipse cx="620.43" cy="583.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.417 583.607)"></ellipse>
+    <ellipse cx="339.47" cy="583.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.484 583.604)"></ellipse>
+    <ellipse cx="620.44" cy="421.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.463 421.413)"></ellipse>
+    <ellipse cx="479.85" cy="340.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.85" cy="664.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.36" cy="421.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.354 421.3)"></ellipse>
+    <ellipse cx="620.33" cy="583.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.31 583.51)"></ellipse>
+    <ellipse cx="339.37" cy="583.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.387 583.518)"></ellipse>
+    <ellipse cx="620.34" cy="421.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.366 421.327)"></ellipse>
+    <ellipse cx="479.75" cy="340.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.75" cy="664.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.26" cy="421.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.253 421.196)"></ellipse>
+    <ellipse cx="620.23" cy="583.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.218 583.411)"></ellipse>
+    <ellipse cx="339.27" cy="583.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.295 583.414)"></ellipse>
+    <ellipse cx="620.24" cy="421.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.255 421.217)"></ellipse>
+    <ellipse cx="479.65" cy="339.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.65" cy="664.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.16" cy="421.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.16 421.097)"></ellipse>
+    <ellipse cx="620.13" cy="583.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.117 583.307)"></ellipse>
+    <ellipse cx="339.17" cy="583.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.184 583.304)"></ellipse>
+    <ellipse cx="620.14" cy="421.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.163 421.112)"></ellipse>
+    <ellipse cx="479.55" cy="339.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.55" cy="664.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="339.06" cy="421" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 339.054 421)"></ellipse>
+    <ellipse cx="620.03" cy="583.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 620.01 583.21)"></ellipse>
+    <ellipse cx="339.07" cy="583.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 339.087 583.218)"></ellipse>
+    <ellipse cx="620.04" cy="421.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 620.066 421.026)"></ellipse>
+    <ellipse cx="479.45" cy="339.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.45" cy="664.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.96" cy="420.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.953 420.896)"></ellipse>
+    <ellipse cx="619.93" cy="583.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.918 583.11)"></ellipse>
+    <ellipse cx="338.97" cy="583.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.995 583.113)"></ellipse>
+    <ellipse cx="619.94" cy="420.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.956 420.917)"></ellipse>
+    <ellipse cx="479.35" cy="339.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.35" cy="664.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.86" cy="420.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.86 420.796)"></ellipse>
+    <ellipse cx="619.83" cy="583.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.817 583.006)"></ellipse>
+    <ellipse cx="338.87" cy="583" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.885 583.004)"></ellipse>
+    <ellipse cx="619.84" cy="420.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.864 420.812)"></ellipse>
+    <ellipse cx="479.25" cy="339.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.25" cy="664.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.76" cy="420.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.754 420.7)"></ellipse>
+    <ellipse cx="619.73" cy="582.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.71 582.91)"></ellipse>
+    <ellipse cx="338.77" cy="582.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.788 582.918)"></ellipse>
+    <ellipse cx="619.74" cy="420.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.767 420.726)"></ellipse>
+    <ellipse cx="479.15" cy="339.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.15" cy="663.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.66" cy="420.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.653 420.596)"></ellipse>
+    <ellipse cx="619.63" cy="582.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.618 582.81)"></ellipse>
+    <ellipse cx="338.67" cy="582.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.677 582.808)"></ellipse>
+    <ellipse cx="619.64" cy="420.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.656 420.616)"></ellipse>
+    <ellipse cx="479.05" cy="339.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="479.05" cy="663.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.56" cy="420.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.56 420.496)"></ellipse>
+    <ellipse cx="619.53" cy="582.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.516 582.706)"></ellipse>
+    <ellipse cx="338.57" cy="582.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.58 582.722)"></ellipse>
+    <ellipse cx="619.54" cy="420.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.564 420.512)"></ellipse>
+    <ellipse cx="478.95" cy="339.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.95" cy="663.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.46" cy="420.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.454 420.4)"></ellipse>
+    <ellipse cx="619.43" cy="582.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.41 582.61)"></ellipse>
+    <ellipse cx="338.47" cy="582.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.488 582.618)"></ellipse>
+    <ellipse cx="619.44" cy="420.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.467 420.426)"></ellipse>
+    <ellipse cx="478.85" cy="339.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.85" cy="663.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.36" cy="420.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.353 420.295)"></ellipse>
+    <ellipse cx="619.33" cy="582.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.318 582.51)"></ellipse>
+    <ellipse cx="338.37" cy="582.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.377 582.508)"></ellipse>
+    <ellipse cx="619.34" cy="420.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.357 420.316)"></ellipse>
+    <ellipse cx="478.75" cy="339.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.75" cy="663.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.26" cy="420.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.26 420.196)"></ellipse>
+    <ellipse cx="619.23" cy="582.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.216 582.406)"></ellipse>
+    <ellipse cx="338.27" cy="582.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.28 582.422)"></ellipse>
+    <ellipse cx="619.24" cy="420.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.265 420.211)"></ellipse>
+    <ellipse cx="478.65" cy="338.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.65" cy="663.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.16" cy="420.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.154 420.1)"></ellipse>
+    <ellipse cx="619.13" cy="582.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.11 582.31)"></ellipse>
+    <ellipse cx="338.17" cy="582.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.189 582.317)"></ellipse>
+    <ellipse cx="619.14" cy="420.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.168 420.125)"></ellipse>
+    <ellipse cx="478.55" cy="338.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.55" cy="663.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="338.06" cy="420" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 338.053 419.995)"></ellipse>
+    <ellipse cx="619.03" cy="582.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 619.018 582.21)"></ellipse>
+    <ellipse cx="338.07" cy="582.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 338.078 582.208)"></ellipse>
+    <ellipse cx="619.04" cy="420.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 619.057 420.016)"></ellipse>
+    <ellipse cx="478.45" cy="338.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.45" cy="663.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.96" cy="419.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.96 419.896)"></ellipse>
+    <ellipse cx="618.93" cy="582.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.916 582.106)"></ellipse>
+    <ellipse cx="337.97" cy="582.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.981 582.122)"></ellipse>
+    <ellipse cx="618.94" cy="419.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.965 419.911)"></ellipse>
+    <ellipse cx="478.35" cy="338.68" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.35" cy="663.12" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.86" cy="419.8" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.854 419.8)"></ellipse>
+    <ellipse cx="618.83" cy="582.01" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.81 582.01)"></ellipse>
+    <ellipse cx="337.87" cy="582" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.889 582.017)"></ellipse>
+    <ellipse cx="618.84" cy="419.81" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.868 419.825)"></ellipse>
+    <ellipse cx="478.25" cy="338.58" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.25" cy="663.02" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.76" cy="419.7" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.753 419.695)"></ellipse>
+    <ellipse cx="618.73" cy="581.91" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.717 581.91)"></ellipse>
+    <ellipse cx="337.77" cy="581.9" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.778 581.907)"></ellipse>
+    <ellipse cx="618.74" cy="419.71" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.758 419.716)"></ellipse>
+    <ellipse cx="478.15" cy="338.48" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.15" cy="662.92" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.66" cy="419.6" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.66 419.595)"></ellipse>
+    <ellipse cx="618.63" cy="581.81" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.616 581.805)"></ellipse>
+    <ellipse cx="337.67" cy="581.8" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.681 581.821)"></ellipse>
+    <ellipse cx="618.64" cy="419.61" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.666 419.61)"></ellipse>
+    <ellipse cx="478.05" cy="338.38" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="478.05" cy="662.82" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.56" cy="419.5" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.554 419.5)"></ellipse>
+    <ellipse cx="618.53" cy="581.71" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.519 581.714)"></ellipse>
+    <ellipse cx="337.57" cy="581.7" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.59 581.717)"></ellipse>
+    <ellipse cx="618.54" cy="419.51" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.55 419.52)"></ellipse>
+    <ellipse cx="477.95" cy="338.28" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.95" cy="662.72" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.46" cy="419.4" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.453 419.395)"></ellipse>
+    <ellipse cx="618.43" cy="581.61" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.417 581.61)"></ellipse>
+    <ellipse cx="337.47" cy="581.6" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.479 581.607)"></ellipse>
+    <ellipse cx="618.44" cy="419.41" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.458 419.415)"></ellipse>
+    <ellipse cx="477.85" cy="338.18" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.85" cy="662.62" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.36" cy="419.3" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.36 419.295)"></ellipse>
+    <ellipse cx="618.33" cy="581.51" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.316 581.505)"></ellipse>
+    <ellipse cx="337.37" cy="581.5" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.382 581.521)"></ellipse>
+    <ellipse cx="618.34" cy="419.31" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.366 419.31)"></ellipse>
+    <ellipse cx="477.75" cy="338.08" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.75" cy="662.52" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.26" cy="419.2" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.254 419.199)"></ellipse>
+    <ellipse cx="618.23" cy="581.41" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.219 581.414)"></ellipse>
+    <ellipse cx="337.27" cy="581.4" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.29 581.417)"></ellipse>
+    <ellipse cx="618.24" cy="419.21" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.25 419.22)"></ellipse>
+    <ellipse cx="477.65" cy="337.98" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.65" cy="662.42" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.16" cy="419.1" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.161 419.1)"></ellipse>
+    <ellipse cx="618.13" cy="581.31" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.117 581.31)"></ellipse>
+    <ellipse cx="337.17" cy="581.3" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.18 581.307)"></ellipse>
+    <ellipse cx="618.14" cy="419.11" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.158 419.115)"></ellipse>
+    <ellipse cx="477.55" cy="337.88" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.55" cy="662.32" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="337.06" cy="419" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 337.06 418.995)"></ellipse>
+    <ellipse cx="618.03" cy="581.21" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 618.016 581.205)"></ellipse>
+    <ellipse cx="337.07" cy="581.2" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 337.082 581.22)"></ellipse>
+    <ellipse cx="618.04" cy="419.01" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 618.066 419.01)"></ellipse>
+    <ellipse cx="477.45" cy="337.78" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.45" cy="662.22" fill="#f18817" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.96" cy="418.9" fill="#f18817" rx="74.03" ry="43.09" transform="rotate(-60 336.954 418.899)"></ellipse>
+    <ellipse cx="617.93" cy="581.11" fill="#f18817" rx="74.03" ry="43.06" transform="rotate(-60 617.919 581.114)"></ellipse>
+    <ellipse cx="336.97" cy="581.1" fill="#f18817" rx="43.09" ry="74.03" transform="rotate(-30 336.99 581.116)"></ellipse>
+    <ellipse cx="617.94" cy="418.91" fill="#f18817" rx="43.06" ry="74.03" transform="rotate(-30 617.95 418.92)"></ellipse>
+    <ellipse cx="477.45" cy="337.78" fill="#e6007a" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.45" cy="662.22" fill="#e6007a" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.96" cy="418.9" fill="#e6007a" rx="74.03" ry="43.09" transform="rotate(-60 336.954 418.899)"></ellipse>
+    <ellipse cx="617.93" cy="581.11" fill="#e6007a" rx="74.03" ry="43.06" transform="rotate(-60 617.919 581.114)"></ellipse>
+    <ellipse cx="336.97" cy="581.1" fill="#e6007a" rx="43.09" ry="74.03" transform="rotate(-30 336.99 581.116)"></ellipse>
+    <ellipse cx="617.94" cy="418.91" fill="#e6007a" rx="43.06" ry="74.03" transform="rotate(-30 617.95 418.92)"></ellipse>
+    <ellipse cx="470.45" cy="330.78" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="470.45" cy="655.22" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="329.96" cy="411.9" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 329.955 411.902)"></ellipse>
+    <ellipse cx="610.93" cy="574.11" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 610.91 574.112)"></ellipse>
+    <ellipse cx="329.97" cy="574.1" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 329.985 574.12)"></ellipse>
+    <ellipse cx="610.94" cy="411.91" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 610.97 411.909)"></ellipse>
+    <ellipse cx="470.55" cy="330.88" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="470.55" cy="655.32" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.06" cy="412" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.06 411.998)"></ellipse>
+    <ellipse cx="611.03" cy="574.21" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.017 574.208)"></ellipse>
+    <ellipse cx="330.07" cy="574.2" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.082 574.205)"></ellipse>
+    <ellipse cx="611.04" cy="412.01" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.061 412.013)"></ellipse>
+    <ellipse cx="470.65" cy="330.98" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="470.65" cy="655.42" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.16" cy="412.1" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.154 412.097)"></ellipse>
+    <ellipse cx="611.13" cy="574.31" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.118 574.312)"></ellipse>
+    <ellipse cx="330.17" cy="574.3" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.193 574.315)"></ellipse>
+    <ellipse cx="611.14" cy="412.11" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.153 412.118)"></ellipse>
+    <ellipse cx="470.75" cy="331.08" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="470.75" cy="655.52" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.26" cy="412.2" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.26 412.193)"></ellipse>
+    <ellipse cx="611.23" cy="574.41" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.21 574.412)"></ellipse>
+    <ellipse cx="330.27" cy="574.4" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.285 574.42)"></ellipse>
+    <ellipse cx="611.24" cy="412.21" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.269 412.209)"></ellipse>
+    <ellipse cx="470.85" cy="331.18" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="470.85" cy="655.62" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.36" cy="412.3" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.361 412.298)"></ellipse>
+    <ellipse cx="611.33" cy="574.51" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.317 574.508)"></ellipse>
+    <ellipse cx="330.37" cy="574.5" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.382 574.506)"></ellipse>
+    <ellipse cx="611.34" cy="412.31" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.36 412.314)"></ellipse>
+    <ellipse cx="470.95" cy="331.28" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="470.95" cy="655.72" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.46" cy="412.4" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.454 412.398)"></ellipse>
+    <ellipse cx="611.43" cy="574.61" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.418 574.613)"></ellipse>
+    <ellipse cx="330.47" cy="574.6" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.492 574.615)"></ellipse>
+    <ellipse cx="611.44" cy="412.41" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.453 412.418)"></ellipse>
+    <ellipse cx="471.05" cy="331.38" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.05" cy="655.82" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.56" cy="412.5" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.56 412.494)"></ellipse>
+    <ellipse cx="611.53" cy="574.71" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.51 574.712)"></ellipse>
+    <ellipse cx="330.57" cy="574.7" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.584 574.72)"></ellipse>
+    <ellipse cx="611.54" cy="412.51" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.568 412.51)"></ellipse>
+    <ellipse cx="471.15" cy="331.48" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.15" cy="655.92" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.66" cy="412.6" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.661 412.598)"></ellipse>
+    <ellipse cx="611.63" cy="574.81" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.617 574.808)"></ellipse>
+    <ellipse cx="330.67" cy="574.8" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.681 574.806)"></ellipse>
+    <ellipse cx="611.64" cy="412.61" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.66 412.614)"></ellipse>
+    <ellipse cx="471.25" cy="331.58" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.25" cy="656.02" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.76" cy="412.7" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.754 412.698)"></ellipse>
+    <ellipse cx="611.73" cy="574.91" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.718 574.913)"></ellipse>
+    <ellipse cx="330.77" cy="574.9" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.792 574.915)"></ellipse>
+    <ellipse cx="611.74" cy="412.71" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.752 412.719)"></ellipse>
+    <ellipse cx="471.35" cy="331.68" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.35" cy="656.12" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.86" cy="412.8" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.86 412.794)"></ellipse>
+    <ellipse cx="611.83" cy="575.01" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.816 575.004)"></ellipse>
+    <ellipse cx="330.87" cy="575" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.884 575.02)"></ellipse>
+    <ellipse cx="611.84" cy="412.81" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.868 412.81)"></ellipse>
+    <ellipse cx="471.45" cy="331.78" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.45" cy="656.22" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="330.96" cy="412.9" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 330.961 412.898)"></ellipse>
+    <ellipse cx="611.93" cy="575.11" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 611.917 575.108)"></ellipse>
+    <ellipse cx="330.97" cy="575.1" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 330.98 575.106)"></ellipse>
+    <ellipse cx="611.94" cy="412.91" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 611.96 412.914)"></ellipse>
+    <ellipse cx="471.55" cy="331.88" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.55" cy="656.32" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.06" cy="413" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.054 412.998)"></ellipse>
+    <ellipse cx="612.03" cy="575.21" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.018 575.213)"></ellipse>
+    <ellipse cx="331.07" cy="575.2" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.091 575.216)"></ellipse>
+    <ellipse cx="612.04" cy="413.01" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.052 413.019)"></ellipse>
+    <ellipse cx="471.65" cy="331.98" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.65" cy="656.42" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.16" cy="413.1" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.16 413.094)"></ellipse>
+    <ellipse cx="612.13" cy="575.31" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.116 575.304)"></ellipse>
+    <ellipse cx="331.17" cy="575.3" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.183 575.32)"></ellipse>
+    <ellipse cx="612.14" cy="413.11" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.168 413.11)"></ellipse>
+    <ellipse cx="471.75" cy="332.08" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.75" cy="656.52" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.26" cy="413.2" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.261 413.199)"></ellipse>
+    <ellipse cx="612.23" cy="575.41" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.217 575.409)"></ellipse>
+    <ellipse cx="331.27" cy="575.4" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.28 575.406)"></ellipse>
+    <ellipse cx="612.24" cy="413.21" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.26 413.214)"></ellipse>
+    <ellipse cx="471.85" cy="332.18" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.85" cy="656.62" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.36" cy="413.3" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.354 413.298)"></ellipse>
+    <ellipse cx="612.33" cy="575.51" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.318 575.513)"></ellipse>
+    <ellipse cx="331.37" cy="575.5" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.391 575.516)"></ellipse>
+    <ellipse cx="612.34" cy="413.31" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.351 413.32)"></ellipse>
+    <ellipse cx="471.95" cy="332.28" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="471.95" cy="656.72" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.46" cy="413.4" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.46 413.394)"></ellipse>
+    <ellipse cx="612.43" cy="575.61" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.416 575.604)"></ellipse>
+    <ellipse cx="331.47" cy="575.6" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.483 575.62)"></ellipse>
+    <ellipse cx="612.44" cy="413.41" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.467 413.41)"></ellipse>
+    <ellipse cx="472.05" cy="332.38" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.05" cy="656.82" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.56" cy="413.5" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.561 413.499)"></ellipse>
+    <ellipse cx="612.53" cy="575.71" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.517 575.709)"></ellipse>
+    <ellipse cx="331.57" cy="575.7" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.58 575.707)"></ellipse>
+    <ellipse cx="612.54" cy="413.51" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.56 413.515)"></ellipse>
+    <ellipse cx="472.15" cy="332.48" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.15" cy="656.92" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.66" cy="413.6" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.654 413.599)"></ellipse>
+    <ellipse cx="612.63" cy="575.81" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.618 575.814)"></ellipse>
+    <ellipse cx="331.67" cy="575.8" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.69 575.816)"></ellipse>
+    <ellipse cx="612.64" cy="413.61" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.651 413.62)"></ellipse>
+    <ellipse cx="472.25" cy="332.58" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.25" cy="657.02" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.76" cy="413.7" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.76 413.695)"></ellipse>
+    <ellipse cx="612.73" cy="575.91" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.716 575.905)"></ellipse>
+    <ellipse cx="331.77" cy="575.9" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.782 575.92)"></ellipse>
+    <ellipse cx="612.74" cy="413.71" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.767 413.71)"></ellipse>
+    <ellipse cx="472.35" cy="332.68" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.35" cy="657.12" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.86" cy="413.8" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.861 413.8)"></ellipse>
+    <ellipse cx="612.83" cy="576.01" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.817 576.01)"></ellipse>
+    <ellipse cx="331.87" cy="576" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.88 576.007)"></ellipse>
+    <ellipse cx="612.84" cy="413.81" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.859 413.815)"></ellipse>
+    <ellipse cx="472.45" cy="332.78" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.45" cy="657.22" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="331.96" cy="413.9" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 331.954 413.899)"></ellipse>
+    <ellipse cx="612.93" cy="576.11" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 612.919 576.114)"></ellipse>
+    <ellipse cx="331.97" cy="576.1" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 331.99 576.116)"></ellipse>
+    <ellipse cx="612.94" cy="413.91" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 612.95 413.92)"></ellipse>
+    <ellipse cx="472.55" cy="332.88" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.55" cy="657.32" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.06" cy="414" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.06 413.995)"></ellipse>
+    <ellipse cx="613.03" cy="576.21" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.016 576.205)"></ellipse>
+    <ellipse cx="332.07" cy="576.2" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.082 576.221)"></ellipse>
+    <ellipse cx="613.04" cy="414.01" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.066 414.01)"></ellipse>
+    <ellipse cx="472.65" cy="332.98" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.65" cy="657.42" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.16" cy="414.1" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.161 414.1)"></ellipse>
+    <ellipse cx="613.13" cy="576.31" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.117 576.31)"></ellipse>
+    <ellipse cx="332.17" cy="576.3" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.179 576.307)"></ellipse>
+    <ellipse cx="613.14" cy="414.11" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.158 414.115)"></ellipse>
+    <ellipse cx="472.75" cy="333.08" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.75" cy="657.52" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.26" cy="414.2" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.254 414.2)"></ellipse>
+    <ellipse cx="613.23" cy="576.41" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.219 576.414)"></ellipse>
+    <ellipse cx="332.27" cy="576.4" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.29 576.417)"></ellipse>
+    <ellipse cx="613.24" cy="414.21" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.25 414.22)"></ellipse>
+    <ellipse cx="472.85" cy="333.18" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.85" cy="657.62" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.36" cy="414.3" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.36 414.295)"></ellipse>
+    <ellipse cx="613.33" cy="576.51" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.316 576.505)"></ellipse>
+    <ellipse cx="332.37" cy="576.5" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.382 576.521)"></ellipse>
+    <ellipse cx="613.34" cy="414.31" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.366 414.31)"></ellipse>
+    <ellipse cx="472.95" cy="333.28" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="472.95" cy="657.72" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.46" cy="414.4" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.453 414.395)"></ellipse>
+    <ellipse cx="613.43" cy="576.61" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.417 576.61)"></ellipse>
+    <ellipse cx="332.47" cy="576.6" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.479 576.607)"></ellipse>
+    <ellipse cx="613.44" cy="414.41" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.458 414.415)"></ellipse>
+    <ellipse cx="473.05" cy="333.38" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.05" cy="657.82" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.56" cy="414.5" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.554 414.5)"></ellipse>
+    <ellipse cx="613.53" cy="576.71" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.519 576.714)"></ellipse>
+    <ellipse cx="332.57" cy="576.7" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.59 576.717)"></ellipse>
+    <ellipse cx="613.54" cy="414.51" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.55 414.52)"></ellipse>
+    <ellipse cx="473.15" cy="333.48" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.15" cy="657.92" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.66" cy="414.6" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.66 414.595)"></ellipse>
+    <ellipse cx="613.63" cy="576.81" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.616 576.805)"></ellipse>
+    <ellipse cx="332.67" cy="576.8" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.681 576.822)"></ellipse>
+    <ellipse cx="613.64" cy="414.61" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.665 414.611)"></ellipse>
+    <ellipse cx="473.25" cy="333.58" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.25" cy="658.02" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.76" cy="414.7" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.753 414.695)"></ellipse>
+    <ellipse cx="613.73" cy="576.91" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.718 576.91)"></ellipse>
+    <ellipse cx="332.77" cy="576.9" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.778 576.908)"></ellipse>
+    <ellipse cx="613.74" cy="414.71" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.757 414.716)"></ellipse>
+    <ellipse cx="473.35" cy="333.68" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.35" cy="658.12" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.86" cy="414.8" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.854 414.8)"></ellipse>
+    <ellipse cx="613.83" cy="577.01" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.81 577.01)"></ellipse>
+    <ellipse cx="332.87" cy="577" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.889 577.017)"></ellipse>
+    <ellipse cx="613.84" cy="414.81" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.868 414.825)"></ellipse>
+    <ellipse cx="473.45" cy="333.78" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.45" cy="658.22" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="332.96" cy="414.9" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 332.96 414.896)"></ellipse>
+    <ellipse cx="613.93" cy="577.11" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 613.916 577.106)"></ellipse>
+    <ellipse cx="332.97" cy="577.1" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 332.98 577.122)"></ellipse>
+    <ellipse cx="613.94" cy="414.91" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 613.965 414.911)"></ellipse>
+    <ellipse cx="473.55" cy="333.88" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.55" cy="658.32" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.06" cy="415" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.053 414.995)"></ellipse>
+    <ellipse cx="614.03" cy="577.21" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.018 577.21)"></ellipse>
+    <ellipse cx="333.07" cy="577.2" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.078 577.208)"></ellipse>
+    <ellipse cx="614.04" cy="415.01" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.057 415.016)"></ellipse>
+    <ellipse cx="473.65" cy="333.98" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.65" cy="658.42" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.16" cy="415.1" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.154 415.1)"></ellipse>
+    <ellipse cx="614.13" cy="577.31" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.11 577.31)"></ellipse>
+    <ellipse cx="333.17" cy="577.3" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.188 577.318)"></ellipse>
+    <ellipse cx="614.14" cy="415.11" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.167 415.126)"></ellipse>
+    <ellipse cx="473.75" cy="334.08" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.75" cy="658.52" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.26" cy="415.2" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.26 415.196)"></ellipse>
+    <ellipse cx="614.23" cy="577.41" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.216 577.406)"></ellipse>
+    <ellipse cx="333.27" cy="577.4" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.28 577.422)"></ellipse>
+    <ellipse cx="614.24" cy="415.21" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.264 415.212)"></ellipse>
+    <ellipse cx="473.85" cy="334.18" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.85" cy="658.62" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.36" cy="415.3" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.353 415.296)"></ellipse>
+    <ellipse cx="614.33" cy="577.51" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.318 577.51)"></ellipse>
+    <ellipse cx="333.37" cy="577.5" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.377 577.508)"></ellipse>
+    <ellipse cx="614.34" cy="415.31" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.356 415.316)"></ellipse>
+    <ellipse cx="473.95" cy="334.28" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="473.95" cy="658.72" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.46" cy="415.4" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.454 415.4)"></ellipse>
+    <ellipse cx="614.43" cy="577.61" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.41 577.61)"></ellipse>
+    <ellipse cx="333.47" cy="577.6" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.488 577.618)"></ellipse>
+    <ellipse cx="614.44" cy="415.41" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.467 415.426)"></ellipse>
+    <ellipse cx="474.05" cy="334.38" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.05" cy="658.82" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.56" cy="415.5" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.56 415.496)"></ellipse>
+    <ellipse cx="614.53" cy="577.71" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.516 577.706)"></ellipse>
+    <ellipse cx="333.57" cy="577.7" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.585 577.704)"></ellipse>
+    <ellipse cx="614.54" cy="415.51" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.564 415.512)"></ellipse>
+    <ellipse cx="474.15" cy="334.48" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.15" cy="658.92" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.66" cy="415.6" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.653 415.596)"></ellipse>
+    <ellipse cx="614.63" cy="577.81" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.618 577.81)"></ellipse>
+    <ellipse cx="333.67" cy="577.8" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.677 577.808)"></ellipse>
+    <ellipse cx="614.64" cy="415.61" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.656 415.617)"></ellipse>
+    <ellipse cx="474.25" cy="334.58" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.25" cy="659.02" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.76" cy="415.7" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.754 415.7)"></ellipse>
+    <ellipse cx="614.73" cy="577.91" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.71 577.91)"></ellipse>
+    <ellipse cx="333.77" cy="577.9" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.787 577.918)"></ellipse>
+    <ellipse cx="614.74" cy="415.71" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.767 415.726)"></ellipse>
+    <ellipse cx="474.35" cy="334.68" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.35" cy="659.12" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.86" cy="415.8" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.86 415.796)"></ellipse>
+    <ellipse cx="614.83" cy="578.01" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.817 578.006)"></ellipse>
+    <ellipse cx="333.87" cy="578" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.884 578.004)"></ellipse>
+    <ellipse cx="614.84" cy="415.81" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.863 415.812)"></ellipse>
+    <ellipse cx="474.45" cy="334.78" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.45" cy="659.22" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="333.96" cy="415.9" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 333.953 415.896)"></ellipse>
+    <ellipse cx="614.93" cy="578.11" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 614.918 578.111)"></ellipse>
+    <ellipse cx="333.97" cy="578.1" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 333.995 578.114)"></ellipse>
+    <ellipse cx="614.94" cy="415.91" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 614.955 415.917)"></ellipse>
+    <ellipse cx="474.55" cy="334.88" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.55" cy="659.32" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.06" cy="416" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.054 416)"></ellipse>
+    <ellipse cx="615.03" cy="578.21" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.01 578.21)"></ellipse>
+    <ellipse cx="334.07" cy="578.2" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.087 578.218)"></ellipse>
+    <ellipse cx="615.04" cy="416.01" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.066 416.026)"></ellipse>
+    <ellipse cx="474.65" cy="334.98" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.65" cy="659.42" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.16" cy="416.1" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.16 416.097)"></ellipse>
+    <ellipse cx="615.13" cy="578.31" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.117 578.307)"></ellipse>
+    <ellipse cx="334.17" cy="578.3" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.184 578.304)"></ellipse>
+    <ellipse cx="615.14" cy="416.11" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.163 416.112)"></ellipse>
+    <ellipse cx="474.75" cy="335.08" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.75" cy="659.52" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.26" cy="416.2" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.253 416.196)"></ellipse>
+    <ellipse cx="615.23" cy="578.41" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.218 578.411)"></ellipse>
+    <ellipse cx="334.27" cy="578.4" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.294 578.414)"></ellipse>
+    <ellipse cx="615.24" cy="416.21" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.255 416.217)"></ellipse>
+    <ellipse cx="474.85" cy="335.18" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.85" cy="659.62" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.36" cy="416.3" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.355 416.301)"></ellipse>
+    <ellipse cx="615.33" cy="578.51" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.31 578.511)"></ellipse>
+    <ellipse cx="334.37" cy="578.5" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.386 578.519)"></ellipse>
+    <ellipse cx="615.34" cy="416.31" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.37 416.308)"></ellipse>
+    <ellipse cx="474.95" cy="335.28" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="474.95" cy="659.72" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.46" cy="416.4" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.46 416.397)"></ellipse>
+    <ellipse cx="615.43" cy="578.61" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.417 578.607)"></ellipse>
+    <ellipse cx="334.47" cy="578.6" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.483 578.605)"></ellipse>
+    <ellipse cx="615.44" cy="416.41" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.463 416.413)"></ellipse>
+    <ellipse cx="475.05" cy="335.38" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.05" cy="659.82" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.56" cy="416.5" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.553 416.497)"></ellipse>
+    <ellipse cx="615.53" cy="578.71" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.518 578.712)"></ellipse>
+    <ellipse cx="334.57" cy="578.7" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.594 578.714)"></ellipse>
+    <ellipse cx="615.54" cy="416.51" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.555 416.517)"></ellipse>
+    <ellipse cx="475.15" cy="335.48" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.15" cy="659.92" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.66" cy="416.6" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.655 416.601)"></ellipse>
+    <ellipse cx="615.63" cy="578.81" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.61 578.811)"></ellipse>
+    <ellipse cx="334.67" cy="578.8" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.686 578.819)"></ellipse>
+    <ellipse cx="615.64" cy="416.61" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.67 416.608)"></ellipse>
+    <ellipse cx="475.25" cy="335.58" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.25" cy="660.02" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.76" cy="416.7" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.76 416.697)"></ellipse>
+    <ellipse cx="615.73" cy="578.91" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.717 578.907)"></ellipse>
+    <ellipse cx="334.77" cy="578.9" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.783 578.905)"></ellipse>
+    <ellipse cx="615.74" cy="416.71" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.762 416.713)"></ellipse>
+    <ellipse cx="475.35" cy="335.68" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.35" cy="660.12" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.86" cy="416.8" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.853 416.797)"></ellipse>
+    <ellipse cx="615.83" cy="579.01" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.818 579.012)"></ellipse>
+    <ellipse cx="334.87" cy="579" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.894 579.014)"></ellipse>
+    <ellipse cx="615.84" cy="416.81" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.854 416.818)"></ellipse>
+    <ellipse cx="475.45" cy="335.78" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.45" cy="660.22" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="334.96" cy="416.9" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 334.955 416.902)"></ellipse>
+    <ellipse cx="615.93" cy="579.11" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 615.91 579.112)"></ellipse>
+    <ellipse cx="334.97" cy="579.1" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 334.986 579.12)"></ellipse>
+    <ellipse cx="615.94" cy="416.91" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 615.97 416.909)"></ellipse>
+    <ellipse cx="475.55" cy="335.88" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.55" cy="660.32" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.06" cy="417" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.06 416.998)"></ellipse>
+    <ellipse cx="616.03" cy="579.21" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.017 579.208)"></ellipse>
+    <ellipse cx="335.07" cy="579.2" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.082 579.205)"></ellipse>
+    <ellipse cx="616.04" cy="417.01" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.062 417.013)"></ellipse>
+    <ellipse cx="475.65" cy="335.98" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.65" cy="660.42" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.16" cy="417.1" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.153 417.097)"></ellipse>
+    <ellipse cx="616.13" cy="579.31" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.118 579.312)"></ellipse>
+    <ellipse cx="335.17" cy="579.3" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.193 579.315)"></ellipse>
+    <ellipse cx="616.14" cy="417.11" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.154 417.118)"></ellipse>
+    <ellipse cx="475.75" cy="336.08" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.75" cy="660.52" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.26" cy="417.2" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.255 417.202)"></ellipse>
+    <ellipse cx="616.23" cy="579.41" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.21 579.412)"></ellipse>
+    <ellipse cx="335.27" cy="579.4" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.285 579.42)"></ellipse>
+    <ellipse cx="616.24" cy="417.21" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.27 417.209)"></ellipse>
+    <ellipse cx="475.85" cy="336.18" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.85" cy="660.62" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.36" cy="417.3" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.361 417.298)"></ellipse>
+    <ellipse cx="616.33" cy="579.51" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.317 579.508)"></ellipse>
+    <ellipse cx="335.37" cy="579.5" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.382 579.505)"></ellipse>
+    <ellipse cx="616.34" cy="417.31" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.361 417.313)"></ellipse>
+    <ellipse cx="475.95" cy="336.28" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="475.95" cy="660.72" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.46" cy="417.4" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.454 417.397)"></ellipse>
+    <ellipse cx="616.43" cy="579.61" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.418 579.612)"></ellipse>
+    <ellipse cx="335.47" cy="579.6" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.493 579.615)"></ellipse>
+    <ellipse cx="616.44" cy="417.41" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.453 417.418)"></ellipse>
+    <ellipse cx="476.05" cy="336.38" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.05" cy="660.82" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.56" cy="417.5" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.56 417.493)"></ellipse>
+    <ellipse cx="616.53" cy="579.71" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.51 579.712)"></ellipse>
+    <ellipse cx="335.57" cy="579.7" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.585 579.72)"></ellipse>
+    <ellipse cx="616.54" cy="417.51" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.569 417.51)"></ellipse>
+    <ellipse cx="476.15" cy="336.48" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.15" cy="660.92" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.66" cy="417.6" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.661 417.598)"></ellipse>
+    <ellipse cx="616.63" cy="579.81" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.617 579.808)"></ellipse>
+    <ellipse cx="335.67" cy="579.8" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.682 579.806)"></ellipse>
+    <ellipse cx="616.64" cy="417.61" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.66 417.614)"></ellipse>
+    <ellipse cx="476.25" cy="336.58" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.25" cy="661.02" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.76" cy="417.7" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.754 417.698)"></ellipse>
+    <ellipse cx="616.73" cy="579.91" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.718 579.913)"></ellipse>
+    <ellipse cx="335.77" cy="579.9" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.792 579.915)"></ellipse>
+    <ellipse cx="616.74" cy="417.71" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.753 417.718)"></ellipse>
+    <ellipse cx="476.35" cy="336.68" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.35" cy="661.12" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.86" cy="417.8" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.86 417.794)"></ellipse>
+    <ellipse cx="616.83" cy="580.01" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.81 580.012)"></ellipse>
+    <ellipse cx="335.87" cy="580" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.884 580.02)"></ellipse>
+    <ellipse cx="616.84" cy="417.81" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.868 417.81)"></ellipse>
+    <ellipse cx="476.45" cy="336.78" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.45" cy="661.22" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="335.96" cy="417.9" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 335.961 417.898)"></ellipse>
+    <ellipse cx="616.93" cy="580.11" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 616.917 580.108)"></ellipse>
+    <ellipse cx="335.97" cy="580.1" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 335.981 580.106)"></ellipse>
+    <ellipse cx="616.94" cy="417.91" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 616.96 417.914)"></ellipse>
+    <ellipse cx="476.55" cy="336.88" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.55" cy="661.32" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.06" cy="418" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.054 417.998)"></ellipse>
+    <ellipse cx="617.03" cy="580.21" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.018 580.213)"></ellipse>
+    <ellipse cx="336.07" cy="580.2" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.092 580.216)"></ellipse>
+    <ellipse cx="617.04" cy="418.01" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.052 418.019)"></ellipse>
+    <ellipse cx="476.65" cy="336.98" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.65" cy="661.42" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.16" cy="418.1" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.16 418.094)"></ellipse>
+    <ellipse cx="617.13" cy="580.31" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.116 580.304)"></ellipse>
+    <ellipse cx="336.17" cy="580.3" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.184 580.32)"></ellipse>
+    <ellipse cx="617.14" cy="418.11" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.168 418.11)"></ellipse>
+    <ellipse cx="476.75" cy="337.08" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.75" cy="661.52" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.26" cy="418.2" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.261 418.199)"></ellipse>
+    <ellipse cx="617.23" cy="580.41" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.217 580.409)"></ellipse>
+    <ellipse cx="336.27" cy="580.4" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.28 580.406)"></ellipse>
+    <ellipse cx="617.24" cy="418.21" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.26 418.214)"></ellipse>
+    <ellipse cx="476.85" cy="337.18" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.85" cy="661.62" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.36" cy="418.3" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.354 418.298)"></ellipse>
+    <ellipse cx="617.33" cy="580.51" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.318 580.513)"></ellipse>
+    <ellipse cx="336.37" cy="580.5" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.391 580.516)"></ellipse>
+    <ellipse cx="617.34" cy="418.31" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.352 418.319)"></ellipse>
+    <ellipse cx="476.95" cy="337.28" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="476.95" cy="661.72" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.46" cy="418.4" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.46 418.394)"></ellipse>
+    <ellipse cx="617.43" cy="580.61" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.416 580.604)"></ellipse>
+    <ellipse cx="336.47" cy="580.6" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.483 580.62)"></ellipse>
+    <ellipse cx="617.44" cy="418.41" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.467 418.41)"></ellipse>
+    <ellipse cx="477.05" cy="337.38" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.05" cy="661.82" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.56" cy="418.5" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.561 418.499)"></ellipse>
+    <ellipse cx="617.53" cy="580.71" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.517 580.709)"></ellipse>
+    <ellipse cx="336.57" cy="580.7" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.58 580.706)"></ellipse>
+    <ellipse cx="617.54" cy="418.51" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.56 418.515)"></ellipse>
+    <ellipse cx="477.15" cy="337.48" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.15" cy="661.92" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.66" cy="418.6" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.654 418.598)"></ellipse>
+    <ellipse cx="617.63" cy="580.81" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.618 580.813)"></ellipse>
+    <ellipse cx="336.67" cy="580.8" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.69 580.816)"></ellipse>
+    <ellipse cx="617.64" cy="418.61" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.651 418.62)"></ellipse>
+    <ellipse cx="477.25" cy="337.58" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.25" cy="662.02" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.76" cy="418.7" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.76 418.694)"></ellipse>
+    <ellipse cx="617.73" cy="580.91" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.716 580.904)"></ellipse>
+    <ellipse cx="336.77" cy="580.9" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.783 580.92)"></ellipse>
+    <ellipse cx="617.74" cy="418.71" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.767 418.71)"></ellipse>
+    <ellipse cx="477.35" cy="337.68" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.35" cy="662.12" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.86" cy="418.8" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.861 418.8)"></ellipse>
+    <ellipse cx="617.83" cy="581.01" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.817 581.01)"></ellipse>
+    <ellipse cx="336.87" cy="581" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.88 581.007)"></ellipse>
+    <ellipse cx="617.84" cy="418.81" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.859 418.815)"></ellipse>
+    <ellipse cx="477.45" cy="337.78" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.45" cy="662.22" fill="#fff" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.96" cy="418.9" fill="#fff" rx="74.03" ry="43.09" transform="rotate(-60 336.954 418.899)"></ellipse>
+    <ellipse cx="617.93" cy="581.11" fill="#fff" rx="74.03" ry="43.06" transform="rotate(-60 617.919 581.114)"></ellipse>
+    <ellipse cx="336.97" cy="581.1" fill="#fff" rx="43.09" ry="74.03" transform="rotate(-30 336.99 581.116)"></ellipse>
+    <ellipse cx="617.94" cy="418.91" fill="#fff" rx="43.06" ry="74.03" transform="rotate(-30 617.95 418.92)"></ellipse>
+    <ellipse cx="477.45" cy="337.78" fill="#fbe101" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="477.45" cy="662.22" fill="#fbe101" rx="74.03" ry="43.06"></ellipse>
+    <ellipse cx="336.96" cy="418.9" fill="#fbe101" rx="74.03" ry="43.09" transform="rotate(-60 336.954 418.899)"></ellipse>
+    <ellipse cx="617.93" cy="581.11" fill="#fbe101" rx="74.03" ry="43.06" transform="rotate(-60 617.919 581.114)"></ellipse>
+    <ellipse cx="336.97" cy="581.1" fill="#fbe101" rx="43.09" ry="74.03" transform="rotate(-30 336.99 581.116)"></ellipse>
+    <ellipse cx="617.94" cy="418.91" fill="#fbe101" rx="43.06" ry="74.03" transform="rotate(-30 617.95 418.92)"></ellipse>
+  </g>
+</svg>

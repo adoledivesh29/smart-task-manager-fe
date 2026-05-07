@@ -1,0 +1,17 @@
+@mixin color-background-style ($color, $bg-color) {
+    color: $color;
+    background: $bg-color;
+}
+
+@mixin dimension-style ($width, $height, $max-width: false, $max-height: false) {
+    width: $width;
+    height: $height;
+
+    @if $max-width {
+        max-width: $max-width;
+    }
+
+    @if $max-height {
+        max-height: $max-height;
+    }
+}

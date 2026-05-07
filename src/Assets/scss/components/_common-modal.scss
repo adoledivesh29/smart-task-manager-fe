@@ -1,0 +1,87 @@
+.custom-modal {
+    .MuiModal-backdrop {
+        background-color: #0000006a;
+        backdrop-filter: blur(3px);
+    }
+
+    .MuiDialog-container {
+        .MuiPaper-root {
+            box-shadow: none;
+            border: 1px solid var(--border-color);
+            border-radius: 24px;
+            margin: 15px;
+            padding: 25px;
+            min-width: 500px;
+
+            .custom-modal-header {
+                position: relative;
+                padding: 10px 16px;
+
+                .modal-title {
+                    font-size: 24px;
+                    font-weight: 600;
+                }
+
+                .modal-subtitle {
+                    font-size: 14px;
+                    color: var(--sub-title-color);
+                }
+
+                .btn-custom-close {
+                    position: absolute;
+                    right: 5px;
+                    top: 5px;
+                    background-color: var(--tab-bg-color);
+                    min-width: unset;
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 50%;
+
+                    svg {
+                        font-size: 22px;
+                        color: #838383;
+                    }
+                }
+            }
+        }
+
+        .MuiDialogActions-root {
+            padding: 20px 12px 0px 12px !important;
+
+            .btn-custom-action {
+                border-radius: 8px;
+                padding: 8px 16px;
+                font-size: 14px;
+                font-weight: 400;
+                font-family: 'Outfit', sans-serif;
+                text-transform: capitalize;
+                min-width: 100px;
+
+                &.btn-custom-discard {
+                    background-color: var(--tab-bg-color);
+                    color: var(--sub-title-color);
+                }
+
+                &.btn-custom-confirm {
+                    background-color: var(--primary-color);
+                    color: var(--white-color);
+
+                    svg {
+                        color: white;
+                    }
+
+                    &:disabled {
+                        opacity: 0.5;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.custom-modal-form {
+    .MuiModal-backdrop {
+        background-color: rgba(0, 0, 0, 0.4156862745);
+        backdrop-filter: blur(3px);
+    }
+}

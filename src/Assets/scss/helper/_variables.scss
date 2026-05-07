@@ -1,0 +1,24 @@
+:root {
+    --error-color: #ff0101;
+    --primary-color: #198bc8;
+    --light-primary-color: #d8ecf6;
+    --secondary-color: #198bc812;
+    --border-color: #e5e7eb;
+    --white-color: #ffffff;
+    --sub-title-color: #5a6871;
+    --tab-bg-color: #f4f5f7;
+    --warning-color: #ffc800e4;
+    --success-color: #1fb672;
+    --gray-color: #505050;
+    --light-gray-color: #eaebec;
+    --toggle-switch-color: #4ca5d4;
+}
+
+// Media query breakpoints
+$grid-breakpoints: (
+    xs: 0,
+    sm: 575px,
+    md: 767px,
+    lg: 991px,
+    xl: 1199px,
+    xxl: 1399px) !default;

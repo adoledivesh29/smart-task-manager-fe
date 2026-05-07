@@ -1,0 +1,11 @@
+.fallback-loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100dvh;
+
+    svg {
+        color: var(--primary-color);
+    }
+}

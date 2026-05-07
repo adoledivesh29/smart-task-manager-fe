@@ -1,0 +1,182 @@
+.auth-container {
+    .auth-form {
+        width: 100%;
+        max-width: 50%;
+        min-height: 100dvh;
+        padding: 70px 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .auth-page {
+            width: 60%;
+
+            .not-found-text {
+                width: 30%;
+                margin: 0 auto;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 10px;
+
+                button {
+                    @include color-background-style(var(--primary-color), var(--white-color));
+                    border: 1px solid var(--primary-color);
+                    padding: 10px 20px;
+                    border-radius: 5px;
+                    font-size: 14px;
+                    font-weight: 500;
+                }
+            }
+
+            .title {
+                font-size: 36px;
+                font-weight: 600;
+                color: #313131;
+            }
+
+            .sub-title {
+                font-size: 14px;
+                line-height: 1.4;
+                color: #667085;
+                margin-bottom: 20px;
+            }
+
+            .submit-button {
+                margin-top: 10px;
+                width: 100%;
+                font-size: 14px;
+                @include color-background-style(var(--white-color), var(--primary-color));
+                font-family: 'Outfit', sans-serif;
+                font-weight: 400;
+                text-transform: none;
+                padding: 12px 12px;
+                border-radius: 8px;
+            }
+
+            .forgot-password-link {
+                font-size: 14px;
+                text-decoration: none;
+                margin: 10px 0 5px;
+                text-align: right;
+
+                a {
+                    color: var(--primary-color);
+                }
+            }
+
+            .password-remember-link {
+                font-size: 14px;
+                text-decoration: none;
+                margin: 12px 0 0;
+                text-align: left;
+
+                a {
+                    color: var(--primary-color);
+                }
+            }
+
+            .auth-switch-link {
+                margin-top: 14px;
+                color: #667085;
+            }
+        }
+    }
+
+    .auth-image {
+        @include dimension-style(100%, 100%, 50%);
+        position: fixed;
+        right: 0;
+        top: 0;
+        background-color: #052443;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 15px;
+
+        .auth-logo {
+            width: 100%;
+            max-width: 160px;
+            z-index: 1;
+            filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.8));
+        }
+
+        .auth-grid {
+            position: absolute;
+            z-index: -1;
+            opacity: 0.15;
+            max-width: 75%;
+            width: 100%;
+        }
+
+        .auth-text {
+            transition: opacity 0.6s ease-in-out;
+
+            &.fade-in {
+                opacity: 1;
+            }
+
+            &.fade-out {
+                opacity: 0;
+            }
+        }
+
+        p {
+            color: #d8d8d8;
+            text-align: center;
+            font-size: 16px;
+        }
+    }
+}
+
+// Keyframes for fade animations
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+@include media-max(md) {
+    .auth-container {
+
+        .auth-form {
+            max-width: 100%;
+
+            .auth-page {
+                width: 80%;
+            }
+        }
+
+        .auth-image {
+            display: none;
+        }
+    }
+}
+
+@include media-max(sm) {
+    .auth-container {
+        .auth-form {
+            max-width: 100%;
+            padding: 20px;
+
+            .auth-page {
+                width: 100%;
+            }
+        }
+    }
+}
