@@ -1,15 +1,15 @@
-FROM node:24-alpine
+FROM node:22-alpine
 
 WORKDIR /app
 
 COPY package*.json ./
 
-RUN npm install
+RUN npm ci
 
 COPY . .
 
-RUN npm run build
+ENV NODE_OPTIONS="--max-old-space-size=512"
 
-EXPOSE 5173
+RUN npm run build
 
 # CMD ["npm", "run", "preview", "--", "--host", "0.0.0.0", "--port", "5173"]
